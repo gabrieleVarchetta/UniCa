@@ -1,0 +1,2672 @@
+
+
+NUMERO ELEMENTI: 500
+INSIEME ORDINATO
+Selection Sort  : tempo: 0.000000	Numero confronti : 124750    	Numero scambi : 499       
+Insertion Sort  : tempo: 0.000000	Numero confronti : 499       	Numero scambi : 499       
+Quick Sort      : tempo: 0.000000	Numero confronti : 125748    	Numero scambi : 499       
+Heap Sort       : tempo: 0.000000	Numero confronti : 7808      	Numero scambi : 5094      
+Merge Sort      : tempo: 0.000000	Numero confronti : 2762      	Numero scambi : 4488      
+
+
+INSIEME QUASI_ORDINATO
+Selection Sort  : tempo: 0.001000	Numero confronti : 124750    	Numero scambi : 499       
+Insertion Sort  : tempo: 0.000000	Numero confronti : 64808     	Numero scambi : 64809     
+Quick Sort      : tempo: 0.000000	Numero confronti : 13308     	Numero scambi : 1038      
+Heap Sort       : tempo: 0.000000	Numero confronti : 7502      	Numero scambi : 4739      
+Merge Sort      : tempo: 0.000000	Numero confronti : 3281      	Numero scambi : 4488      
+
+
+INSIEME INV_ORDINATO
+Selection Sort  : tempo: 0.000000	Numero confronti : 124750    	Numero scambi : 499       
+Insertion Sort  : tempo: 0.001000	Numero confronti : 124750    	Numero scambi : 125249    
+Quick Sort      : tempo: 0.000000	Numero confronti : 125748    	Numero scambi : 499       
+Heap Sort       : tempo: 0.000000	Numero confronti : 7016      	Numero scambi : 4424      
+Merge Sort      : tempo: 0.000000	Numero confronti : 2216      	Numero scambi : 4488      
+
+
+INSIEME CASUALE
+Selection Sort  : tempo: 0.000000	Numero confronti : 124750    	Numero scambi : 499       
+Insertion Sort  : tempo: 0.000000	Numero confronti : 65162     	Numero scambi : 65169     
+Quick Sort      : tempo: 0.000000	Numero confronti : 6014      	Numero scambi : 1101      
+Heap Sort       : tempo: 0.000000	Numero confronti : 7462      	Numero scambi : 4807      
+Merge Sort      : tempo: 0.000000	Numero confronti : 3856      	Numero scambi : 4488      
+
+
+
+NUMERO ELEMENTI: 1000
+INSIEME ORDINATO
+Selection Sort  : tempo: 0.002000	Numero confronti : 499500    	Numero scambi : 999       
+Insertion Sort  : tempo: 0.000000	Numero confronti : 999       	Numero scambi : 999       
+Quick Sort      : tempo: 0.001000	Numero confronti : 501498    	Numero scambi : 999       
+Heap Sort       : tempo: 0.000000	Numero confronti : 17664     	Numero scambi : 11214     
+Merge Sort      : tempo: 0.000000	Numero confronti : 6033      	Numero scambi : 9976      
+
+
+INSIEME QUASI_ORDINATO
+Selection Sort  : tempo: 0.001000	Numero confronti : 499500    	Numero scambi : 999       
+Insertion Sort  : tempo: 0.001000	Numero confronti : 287160    	Numero scambi : 287161    
+Quick Sort      : tempo: 0.000000	Numero confronti : 25990     	Numero scambi : 2342      
+Heap Sort       : tempo: 0.000000	Numero confronti : 17056     	Numero scambi : 10453     
+Merge Sort      : tempo: 0.000000	Numero confronti : 7211      	Numero scambi : 9976      
+
+
+INSIEME INV_ORDINATO
+Selection Sort  : tempo: 0.001000	Numero confronti : 499500    	Numero scambi : 999       
+Insertion Sort  : tempo: 0.002000	Numero confronti : 499500    	Numero scambi : 500499    
+Quick Sort      : tempo: 0.001000	Numero confronti : 501498    	Numero scambi : 999       
+Heap Sort       : tempo: 0.000000	Numero confronti : 15986     	Numero scambi : 9818      
+Merge Sort      : tempo: 0.000000	Numero confronti : 4932      	Numero scambi : 9976      
+
+
+INSIEME CASUALE
+Selection Sort  : tempo: 0.001000	Numero confronti : 499500    	Numero scambi : 999       
+Insertion Sort  : tempo: 0.001000	Numero confronti : 253138    	Numero scambi : 253140    
+Quick Sort      : tempo: 0.000000	Numero confronti : 14264     	Numero scambi : 2376      
+Heap Sort       : tempo: 0.000000	Numero confronti : 16908     	Numero scambi : 10608     
+Merge Sort      : tempo: 0.000000	Numero confronti : 8736      	Numero scambi : 9976      
+
+
+
+NUMERO ELEMENTI: 2000
+INSIEME ORDINATO
+Selection Sort  : tempo: 0.003000	Numero confronti : 1999000   	Numero scambi : 1999      
+Insertion Sort  : tempo: 0.000000	Numero confronti : 1999      	Numero scambi : 1999      
+Quick Sort      : tempo: 0.004000	Numero confronti : 2002998   	Numero scambi : 1999      
+Heap Sort       : tempo: 0.000000	Numero confronti : 39300     	Numero scambi : 24560     
+Merge Sort      : tempo: 0.000000	Numero confronti : 13076     	Numero scambi : 21952     
+
+
+INSIEME QUASI_ORDINATO
+Selection Sort  : tempo: 0.003000	Numero confronti : 1999000   	Numero scambi : 1999      
+Insertion Sort  : tempo: 0.003000	Numero confronti : 1199985   	Numero scambi : 1199986   
+Quick Sort      : tempo: 0.001000	Numero confronti : 249457    	Numero scambi : 4633      
+Heap Sort       : tempo: 0.000000	Numero confronti : 38146     	Numero scambi : 22881     
+Merge Sort      : tempo: 0.000000	Numero confronti : 15848     	Numero scambi : 21952     
+
+
+INSIEME INV_ORDINATO
+Selection Sort  : tempo: 0.004000	Numero confronti : 1999000   	Numero scambi : 1999      
+Insertion Sort  : tempo: 0.004000	Numero confronti : 1999000   	Numero scambi : 2000999   
+Quick Sort      : tempo: 0.003000	Numero confronti : 2002998   	Numero scambi : 1999      
+Heap Sort       : tempo: 0.000000	Numero confronti : 35986     	Numero scambi : 21708     
+Merge Sort      : tempo: 0.000000	Numero confronti : 10864     	Numero scambi : 21952     
+
+
+INSIEME CASUALE
+Selection Sort  : tempo: 0.003000	Numero confronti : 1999000   	Numero scambi : 1999      
+Insertion Sort  : tempo: 0.002000	Numero confronti : 1015108   	Numero scambi : 1015111   
+Quick Sort      : tempo: 0.000000	Numero confronti : 39601     	Numero scambi : 4902      
+Heap Sort       : tempo: 0.000000	Numero confronti : 37812     	Numero scambi : 23277     
+Merge Sort      : tempo: 0.000000	Numero confronti : 19422     	Numero scambi : 21952     
+
+
+
+NUMERO ELEMENTI: 5000
+INSIEME ORDINATO
+Selection Sort  : tempo: 0.022000	Numero confronti : 12497500  	Numero scambi : 4999      
+Insertion Sort  : tempo: 0.000000	Numero confronti : 4999      	Numero scambi : 4999      
+Quick Sort      : tempo: 0.023000	Numero confronti : 12507498  	Numero scambi : 4999      
+Heap Sort       : tempo: 0.000000	Numero confronti : 112282    	Numero scambi : 68464     
+Merge Sort      : tempo: 0.000000	Numero confronti : 36990     	Numero scambi : 61808     
+
+
+INSIEME QUASI_ORDINATO
+Selection Sort  : tempo: 0.022000	Numero confronti : 12497500  	Numero scambi : 4999      
+Insertion Sort  : tempo: 0.018000	Numero confronti : 7668567   	Numero scambi : 7668568   
+Quick Sort      : tempo: 0.001000	Numero confronti : 877359    	Numero scambi : 12478     
+Heap Sort       : tempo: 0.001000	Numero confronti : 108956    	Numero scambi : 63845     
+Merge Sort      : tempo: 0.000000	Numero confronti : 44940     	Numero scambi : 61808     
+
+
+INSIEME INV_ORDINATO
+Selection Sort  : tempo: 0.023000	Numero confronti : 12497500  	Numero scambi : 4999      
+Insertion Sort  : tempo: 0.029000	Numero confronti : 12497500  	Numero scambi : 12502499  
+Quick Sort      : tempo: 0.023000	Numero confronti : 12507498  	Numero scambi : 4999      
+Heap Sort       : tempo: 0.000000	Numero confronti : 103266    	Numero scambi : 60932     
+Merge Sort      : tempo: 0.000000	Numero confronti : 29804     	Numero scambi : 61808     
+
+
+INSIEME CASUALE
+Selection Sort  : tempo: 0.022000	Numero confronti : 12497500  	Numero scambi : 4999      
+Insertion Sort  : tempo: 0.014000	Numero confronti : 6059338   	Numero scambi : 6059344   
+Quick Sort      : tempo: 0.000000	Numero confronti : 173443    	Numero scambi : 12787     
+Heap Sort       : tempo: 0.001000	Numero confronti : 107830    	Numero scambi : 64737     
+Merge Sort      : tempo: 0.000000	Numero confronti : 55269     	Numero scambi : 61808     
+
+
+
+NUMERO ELEMENTI: 10000
+INSIEME ORDINATO
+Selection Sort  : tempo: 0.091000	Numero confronti : 49995000  	Numero scambi : 9999      
+Insertion Sort  : tempo: 0.000000	Numero confronti : 9999      	Numero scambi : 9999      
+Quick Sort      : tempo: 0.091000	Numero confronti : 50014998  	Numero scambi : 9999      
+Heap Sort       : tempo: 0.001000	Numero confronti : 244528    	Numero scambi : 146424    
+Merge Sort      : tempo: 0.000000	Numero confronti : 78993     	Numero scambi : 133616    
+
+
+INSIEME QUASI_ORDINATO
+Selection Sort  : tempo: 0.089000	Numero confronti : 49995000  	Numero scambi : 9999      
+Insertion Sort  : tempo: 0.074000	Numero confronti : 30936063  	Numero scambi : 30936064  
+Quick Sort      : tempo: 0.022000	Numero confronti : 12178393  	Numero scambi : 22773     
+Heap Sort       : tempo: 0.001000	Numero confronti : 238026    	Numero scambi : 137826    
+Merge Sort      : tempo: 0.001000	Numero confronti : 97201     	Numero scambi : 133616    
+
+
+INSIEME INV_ORDINATO
+Selection Sort  : tempo: 0.091000	Numero confronti : 49995000  	Numero scambi : 9999      
+Insertion Sort  : tempo: 0.118000	Numero confronti : 49995000  	Numero scambi : 50004999  
+Quick Sort      : tempo: 0.091000	Numero confronti : 50014998  	Numero scambi : 9999      
+Heap Sort       : tempo: 0.001000	Numero confronti : 226712    	Numero scambi : 131692    
+Merge Sort      : tempo: 0.000000	Numero confronti : 64608     	Numero scambi : 133616    
+
+
+INSIEME CASUALE
+Selection Sort  : tempo: 0.090000	Numero confronti : 49995000  	Numero scambi : 9999      
+Insertion Sort  : tempo: 0.058000	Numero confronti : 24566434  	Numero scambi : 24566437  
+Quick Sort      : tempo: 0.001000	Numero confronti : 599004    	Numero scambi : 25416     
+Heap Sort       : tempo: 0.001000	Numero confronti : 235600    	Numero scambi : 139444    
+Merge Sort      : tempo: 0.001000	Numero confronti : 120395    	Numero scambi : 133616    
+
+
+
+NUMERO ELEMENTI: 20000
+INSIEME ORDINATO
+Selection Sort  : tempo: 0.364000	Numero confronti : 199990000 	Numero scambi : 19999     
+Insertion Sort  : tempo: 0.000000	Numero confronti : 19999     	Numero scambi : 19999     
+Quick Sort      : tempo: 0.364000	Numero confronti : 200029998 	Numero scambi : 19999     
+Heap Sort       : tempo: 0.002000	Numero confronti : 529062    	Numero scambi : 312583    
+Merge Sort      : tempo: 0.001000	Numero confronti : 168000    	Numero scambi : 287232    
+
+
+INSIEME QUASI_ORDINATO
+Selection Sort  : tempo: 0.361000	Numero confronti : 199990000 	Numero scambi : 19999     
+Insertion Sort  : tempo: 0.290000	Numero confronti : 124084018 	Numero scambi : 124084019 
+Quick Sort      : tempo: 0.089000	Numero confronti : 48617453  	Numero scambi : 45799     
+Heap Sort       : tempo: 0.002000	Numero confronti : 516100    	Numero scambi : 295429    
+Merge Sort      : tempo: 0.001000	Numero confronti : 209302    	Numero scambi : 287232    
+
+
+INSIEME INV_ORDINATO
+Selection Sort  : tempo: 0.360000	Numero confronti : 199990000 	Numero scambi : 19999     
+Insertion Sort  : tempo: 0.468000	Numero confronti : 199990000 	Numero scambi : 200009999 
+Quick Sort      : tempo: 0.363000	Numero confronti : 200029998 	Numero scambi : 19999     
+Heap Sort       : tempo: 0.001000	Numero confronti : 493382    	Numero scambi : 284336    
+Merge Sort      : tempo: 0.001000	Numero confronti : 139216    	Numero scambi : 287232    
+
+
+INSIEME CASUALE
+Selection Sort  : tempo: 0.362000	Numero confronti : 199990000 	Numero scambi : 19999     
+Insertion Sort  : tempo: 0.235000	Numero confronti : 99445814  	Numero scambi : 99445814  
+Quick Sort      : tempo: 0.004000	Numero confronti : 2206123   	Numero scambi : 50744     
+Heap Sort       : tempo: 0.002000	Numero confronti : 511164    	Numero scambi : 298965    
+Merge Sort      : tempo: 0.002000	Numero confronti : 260663    	Numero scambi : 287232    
+
+
+
+NUMERO ELEMENTI: 50000
+INSIEME ORDINATO
+Selection Sort  : tempo: 2.289000	Numero confronti : 1249975000	Numero scambi : 49999     
+Insertion Sort  : tempo: 0.000000	Numero confronti : 49999     	Numero scambi : 49999     
+Quick Sort      : tempo: 2.281000	Numero confronti : 1250074998	Numero scambi : 49999     
+Heap Sort       : tempo: 0.004000	Numero confronti : 1456424   	Numero scambi : 850414    
+Merge Sort      : tempo: 0.003000	Numero confronti : 451935    	Numero scambi : 784464    
+
+
+INSIEME QUASI_ORDINATO
+Selection Sort  : tempo: 2.277000	Numero confronti : 1249975000	Numero scambi : 49999     
+Insertion Sort  : tempo: 1.825000	Numero confronti : 778228255 	Numero scambi : 778228256 
+Quick Sort      : tempo: 0.553000	Numero confronti : 303867083 	Numero scambi : 114193    
+Heap Sort       : tempo: 0.005000	Numero confronti : 1422584   	Numero scambi : 804826    
+Merge Sort      : tempo: 0.004000	Numero confronti : 572103    	Numero scambi : 784464    
+
+
+INSIEME INV_ORDINATO
+Selection Sort  : tempo: 2.282000	Numero confronti : 1249975000	Numero scambi : 49999     
+Insertion Sort  : tempo: 2.939000	Numero confronti : 1249975000	Numero scambi : 1250024999
+Quick Sort      : tempo: 2.276000	Numero confronti : 1250074998	Numero scambi : 49999     
+Heap Sort       : tempo: 0.005000	Numero confronti : 1366154   	Numero scambi : 773892    
+Merge Sort      : tempo: 0.002000	Numero confronti : 382512    	Numero scambi : 784464    
+
+
+INSIEME CASUALE
+Selection Sort  : tempo: 2.279000	Numero confronti : 1249975000	Numero scambi : 49999     
+Insertion Sort  : tempo: 1.459000	Numero confronti : 621437793 	Numero scambi : 621437798 
+Quick Sort      : tempo: 0.024000	Numero confronti : 12907637  	Numero scambi : 127010    
+Heap Sort       : tempo: 0.005000	Numero confronti : 1410978   	Numero scambi : 813986    
+Merge Sort      : tempo: 0.004000	Numero confronti : 717183    	Numero scambi : 784464    
+
+
+
+NUMERO ELEMENTI: 500
+INSIEME ORDINATO
+Selection Sort  : tempo: 0.000000	Numero confronti : 124750    	Numero scambi : 499       
+Insertion Sort  : tempo: 0.000000	Numero confronti : 499       	Numero scambi : 499       
+Quick Sort      : tempo: 0.001000	Numero confronti : 125748    	Numero scambi : 499       
+Heap Sort       : tempo: 0.000000	Numero confronti : 2272      	Numero scambi : 4488      
+Merge Sort      : tempo: 0.000000	Numero confronti : 7792      	Numero scambi : 5103      
+
+
+INSIEME QUASI_ORDINATO
+Selection Sort  : tempo: 0.001000	Numero confronti : 124750    	Numero scambi : 499       
+Insertion Sort  : tempo: 0.000000	Numero confronti : 65066     	Numero scambi : 65067     
+Quick Sort      : tempo: 0.000000	Numero confronti : 12034     	Numero scambi : 1021      
+Heap Sort       : tempo: 0.000000	Numero confronti : 3050      	Numero scambi : 4488      
+Merge Sort      : tempo: 0.000000	Numero confronti : 7510      	Numero scambi : 4748      
+
+
+INSIEME INV_ORDINATO
+Selection Sort  : tempo: 0.000000	Numero confronti : 124750    	Numero scambi : 499       
+Insertion Sort  : tempo: 0.001000	Numero confronti : 124750    	Numero scambi : 125249    
+Quick Sort      : tempo: 0.000000	Numero confronti : 125748    	Numero scambi : 499       
+Heap Sort       : tempo: 0.000000	Numero confronti : 2216      	Numero scambi : 4488      
+Merge Sort      : tempo: 0.000000	Numero confronti : 7028      	Numero scambi : 4425      
+
+
+INSIEME CASUALE
+Selection Sort  : tempo: 0.000000	Numero confronti : 124750    	Numero scambi : 499       
+Insertion Sort  : tempo: 0.000000	Numero confronti : 58814     	Numero scambi : 58815     
+Quick Sort      : tempo: 0.000000	Numero confronti : 6146      	Numero scambi : 1095      
+Heap Sort       : tempo: 0.000000	Numero confronti : 3872      	Numero scambi : 4488      
+Merge Sort      : tempo: 0.000000	Numero confronti : 7440      	Numero scambi : 4799      
+
+
+
+NUMERO ELEMENTI: 1000
+INSIEME ORDINATO
+Selection Sort  : tempo: 0.000000	Numero confronti : 499500    	Numero scambi : 999       
+Insertion Sort  : tempo: 0.000000	Numero confronti : 999       	Numero scambi : 999       
+Quick Sort      : tempo: 0.001000	Numero confronti : 501498    	Numero scambi : 999       
+Heap Sort       : tempo: 0.000000	Numero confronti : 5044      	Numero scambi : 9976      
+Merge Sort      : tempo: 0.000000	Numero confronti : 17626     	Numero scambi : 11207     
+
+
+INSIEME QUASI_ORDINATO
+Selection Sort  : tempo: 0.000000	Numero confronti : 499500    	Numero scambi : 999       
+Insertion Sort  : tempo: 0.001000	Numero confronti : 290831    	Numero scambi : 290832    
+Quick Sort      : tempo: 0.000000	Numero confronti : 16691     	Numero scambi : 2425      
+Heap Sort       : tempo: 0.001000	Numero confronti : 6728      	Numero scambi : 9976      
+Merge Sort      : tempo: 0.000000	Numero confronti : 17078     	Numero scambi : 10490     
+
+
+INSIEME INV_ORDINATO
+Selection Sort  : tempo: 0.001000	Numero confronti : 499500    	Numero scambi : 999       
+Insertion Sort  : tempo: 0.001000	Numero confronti : 499500    	Numero scambi : 500499    
+Quick Sort      : tempo: 0.001000	Numero confronti : 501498    	Numero scambi : 999       
+Heap Sort       : tempo: 0.000000	Numero confronti : 4932      	Numero scambi : 9976      
+Merge Sort      : tempo: 0.000000	Numero confronti : 15982     	Numero scambi : 9815      
+
+
+INSIEME CASUALE
+Selection Sort  : tempo: 0.001000	Numero confronti : 499500    	Numero scambi : 999       
+Insertion Sort  : tempo: 0.000000	Numero confronti : 251176    	Numero scambi : 251184    
+Quick Sort      : tempo: 0.000000	Numero confronti : 14553     	Numero scambi : 2402      
+Heap Sort       : tempo: 0.000000	Numero confronti : 8690      	Numero scambi : 9976      
+Merge Sort      : tempo: 0.000000	Numero confronti : 16860     	Numero scambi : 10578     
+
+
+
+NUMERO ELEMENTI: 2000
+INSIEME ORDINATO
+Selection Sort  : tempo: 0.003000	Numero confronti : 1999000   	Numero scambi : 1999      
+Insertion Sort  : tempo: 0.000000	Numero confronti : 1999      	Numero scambi : 1999      
+Quick Sort      : tempo: 0.004000	Numero confronti : 2002998   	Numero scambi : 1999      
+Heap Sort       : tempo: 0.000000	Numero confronti : 11088     	Numero scambi : 21952     
+Merge Sort      : tempo: 0.000000	Numero confronti : 39190     	Numero scambi : 24299     
+
+
+INSIEME QUASI_ORDINATO
+Selection Sort  : tempo: 0.003000	Numero confronti : 1999000   	Numero scambi : 1999      
+Insertion Sort  : tempo: 0.003000	Numero confronti : 1205844   	Numero scambi : 1205845   
+Quick Sort      : tempo: 0.000000	Numero confronti : 270130    	Numero scambi : 4579      
+Heap Sort       : tempo: 0.000000	Numero confronti : 14852     	Numero scambi : 21952     
+Merge Sort      : tempo: 0.000000	Numero confronti : 38138     	Numero scambi : 22863     
+
+
+INSIEME INV_ORDINATO
+Selection Sort  : tempo: 0.004000	Numero confronti : 1999000   	Numero scambi : 1999      
+Insertion Sort  : tempo: 0.005000	Numero confronti : 1999000   	Numero scambi : 2000999   
+Quick Sort      : tempo: 0.004000	Numero confronti : 2002998   	Numero scambi : 1999      
+Heap Sort       : tempo: 0.000000	Numero confronti : 10864     	Numero scambi : 21952     
+Merge Sort      : tempo: 0.000000	Numero confronti : 35986     	Numero scambi : 21707     
+
+
+INSIEME CASUALE
+Selection Sort  : tempo: 0.003000	Numero confronti : 1999000   	Numero scambi : 1999      
+Insertion Sort  : tempo: 0.002000	Numero confronti : 984088    	Numero scambi : 984094    
+Quick Sort      : tempo: 0.000000	Numero confronti : 42017     	Numero scambi : 4911      
+Heap Sort       : tempo: 0.000000	Numero confronti : 19398     	Numero scambi : 21952     
+Merge Sort      : tempo: 0.000000	Numero confronti : 37818     	Numero scambi : 23279     
+
+
+
+NUMERO ELEMENTI: 5000
+INSIEME ORDINATO
+Selection Sort  : tempo: 0.022000	Numero confronti : 12497500  	Numero scambi : 4999      
+Insertion Sort  : tempo: 0.000000	Numero confronti : 4999      	Numero scambi : 4999      
+Quick Sort      : tempo: 0.022000	Numero confronti : 12507498  	Numero scambi : 4999      
+Heap Sort       : tempo: 0.001000	Numero confronti : 32004     	Numero scambi : 61808     
+Merge Sort      : tempo: 0.000000	Numero confronti : 112186    	Numero scambi : 68431     
+
+
+INSIEME QUASI_ORDINATO
+Selection Sort  : tempo: 0.020000	Numero confronti : 12497500  	Numero scambi : 4999      
+Insertion Sort  : tempo: 0.018000	Numero confronti : 7651921   	Numero scambi : 7651922   
+Quick Sort      : tempo: 0.002000	Numero confronti : 965861    	Numero scambi : 12702     
+Heap Sort       : tempo: 0.000000	Numero confronti : 42440     	Numero scambi : 61808     
+Merge Sort      : tempo: 0.000000	Numero confronti : 108948    	Numero scambi : 63869     
+
+
+INSIEME INV_ORDINATO
+Selection Sort  : tempo: 0.022000	Numero confronti : 12497500  	Numero scambi : 4999      
+Insertion Sort  : tempo: 0.030000	Numero confronti : 12497500  	Numero scambi : 12502499  
+Quick Sort      : tempo: 0.023000	Numero confronti : 12507498  	Numero scambi : 4999      
+Heap Sort       : tempo: 0.000000	Numero confronti : 29804     	Numero scambi : 61808     
+Merge Sort      : tempo: 0.000000	Numero confronti : 103264    	Numero scambi : 60935     
+
+
+INSIEME CASUALE
+Selection Sort  : tempo: 0.020000	Numero confronti : 12497500  	Numero scambi : 4999      
+Insertion Sort  : tempo: 0.014000	Numero confronti : 6087771   	Numero scambi : 6087774   
+Quick Sort      : tempo: 0.000000	Numero confronti : 175724    	Numero scambi : 12692     
+Heap Sort       : tempo: 0.000000	Numero confronti : 55119     	Numero scambi : 61808     
+Merge Sort      : tempo: 0.000000	Numero confronti : 107872    	Numero scambi : 64780     
+
+
+
+NUMERO ELEMENTI: 10000
+INSIEME ORDINATO
+Selection Sort  : tempo: 0.089000	Numero confronti : 49995000  	Numero scambi : 9999      
+Insertion Sort  : tempo: 0.000000	Numero confronti : 9999      	Numero scambi : 9999      
+Quick Sort      : tempo: 0.091000	Numero confronti : 50014998  	Numero scambi : 9999      
+Heap Sort       : tempo: 0.001000	Numero confronti : 69008     	Numero scambi : 133616    
+Merge Sort      : tempo: 0.001000	Numero confronti : 244576    	Numero scambi : 146955    
+
+
+INSIEME QUASI_ORDINATO
+Selection Sort  : tempo: 0.080000	Numero confronti : 49995000  	Numero scambi : 9999      
+Insertion Sort  : tempo: 0.072000	Numero confronti : 30856778  	Numero scambi : 30856779  
+Quick Sort      : tempo: 0.022000	Numero confronti : 12196919  	Numero scambi : 22603     
+Heap Sort       : tempo: 0.001000	Numero confronti : 92269     	Numero scambi : 133616    
+Merge Sort      : tempo: 0.001000	Numero confronti : 237994    	Numero scambi : 137706    
+
+
+INSIEME INV_ORDINATO
+Selection Sort  : tempo: 0.082000	Numero confronti : 49995000  	Numero scambi : 9999      
+Insertion Sort  : tempo: 0.123000	Numero confronti : 49995000  	Numero scambi : 50004999  
+Quick Sort      : tempo: 0.092000	Numero confronti : 50014998  	Numero scambi : 9999      
+Heap Sort       : tempo: 0.000000	Numero confronti : 64608     	Numero scambi : 133616    
+Merge Sort      : tempo: 0.001000	Numero confronti : 226720    	Numero scambi : 131695    
+
+
+INSIEME CASUALE
+Selection Sort  : tempo: 0.078000	Numero confronti : 49995000  	Numero scambi : 9999      
+Insertion Sort  : tempo: 0.059000	Numero confronti : 25036451  	Numero scambi : 25036453  
+Quick Sort      : tempo: 0.001000	Numero confronti : 594645    	Numero scambi : 25232     
+Heap Sort       : tempo: 0.001000	Numero confronti : 120209    	Numero scambi : 133616    
+Merge Sort      : tempo: 0.001000	Numero confronti : 235788    	Numero scambi : 139591    
+
+
+
+NUMERO ELEMENTI: 20000
+INSIEME ORDINATO
+Selection Sort  : tempo: 0.358000	Numero confronti : 199990000 	Numero scambi : 19999     
+Insertion Sort  : tempo: 0.000000	Numero confronti : 19999     	Numero scambi : 19999     
+Quick Sort      : tempo: 0.366000	Numero confronti : 200029998 	Numero scambi : 19999     
+Heap Sort       : tempo: 0.001000	Numero confronti : 148016    	Numero scambi : 287232    
+Merge Sort      : tempo: 0.002000	Numero confronti : 529096    	Numero scambi : 312877    
+
+
+INSIEME QUASI_ORDINATO
+Selection Sort  : tempo: 0.318000	Numero confronti : 199990000 	Numero scambi : 19999     
+Insertion Sort  : tempo: 0.292000	Numero confronti : 124346351 	Numero scambi : 124346352 
+Quick Sort      : tempo: 0.089000	Numero confronti : 48773824  	Numero scambi : 45064     
+Heap Sort       : tempo: 0.001000	Numero confronti : 199383    	Numero scambi : 287232    
+Merge Sort      : tempo: 0.002000	Numero confronti : 516042    	Numero scambi : 295495    
+
+
+INSIEME INV_ORDINATO
+Selection Sort  : tempo: 0.354000	Numero confronti : 199990000 	Numero scambi : 19999     
+Insertion Sort  : tempo: 0.473000	Numero confronti : 199990000 	Numero scambi : 200009999 
+Quick Sort      : tempo: 0.364000	Numero confronti : 200029998 	Numero scambi : 19999     
+Heap Sort       : tempo: 0.001000	Numero confronti : 139216    	Numero scambi : 287232    
+Merge Sort      : tempo: 0.002000	Numero confronti : 493382    	Numero scambi : 284333    
+
+
+INSIEME CASUALE
+Selection Sort  : tempo: 0.313000	Numero confronti : 199990000 	Numero scambi : 19999     
+Insertion Sort  : tempo: 0.231000	Numero confronti : 98379101  	Numero scambi : 98379104  
+Quick Sort      : tempo: 0.005000	Numero confronti : 2162660   	Numero scambi : 51951     
+Heap Sort       : tempo: 0.002000	Numero confronti : 260436    	Numero scambi : 287232    
+Merge Sort      : tempo: 0.002000	Numero confronti : 511276    	Numero scambi : 298984    
+
+
+
+NUMERO ELEMENTI: 50000
+INSIEME ORDINATO
+Selection Sort  : tempo: 2.245000	Numero confronti : 1249975000	Numero scambi : 49999     
+Insertion Sort  : tempo: 0.000000	Numero confronti : 49999     	Numero scambi : 49999     
+Quick Sort      : tempo: 2.281000	Numero confronti : 1250074998	Numero scambi : 49999     
+Heap Sort       : tempo: 0.002000	Numero confronti : 401952    	Numero scambi : 784464    
+Merge Sort      : tempo: 0.004000	Numero confronti : 1455476   	Numero scambi : 848303    
+
+
+INSIEME QUASI_ORDINATO
+Selection Sort  : tempo: 2.006000	Numero confronti : 1249975000	Numero scambi : 49999     
+Insertion Sort  : tempo: 1.829000	Numero confronti : 777875122 	Numero scambi : 777875123 
+Quick Sort      : tempo: 0.554000	Numero confronti : 303789908 	Numero scambi : 112491    
+Heap Sort       : tempo: 0.003000	Numero confronti : 547328    	Numero scambi : 784464    
+Merge Sort      : tempo: 0.005000	Numero confronti : 1422538   	Numero scambi : 804731    
+
+
+INSIEME INV_ORDINATO
+Selection Sort  : tempo: 2.213000	Numero confronti : 1249975000	Numero scambi : 49999     
+Insertion Sort  : tempo: 2.934000	Numero confronti : 1249975000	Numero scambi : 1250024999
+Quick Sort      : tempo: 2.278000	Numero confronti : 1250074998	Numero scambi : 49999     
+Heap Sort       : tempo: 0.002000	Numero confronti : 382512    	Numero scambi : 784464    
+Merge Sort      : tempo: 0.005000	Numero confronti : 1366152   	Numero scambi : 773891    
+
+
+INSIEME CASUALE
+Selection Sort  : tempo: 1.987000	Numero confronti : 1249975000	Numero scambi : 49999     
+Insertion Sort  : tempo: 1.456000	Numero confronti : 618965431 	Numero scambi : 618965435 
+Quick Sort      : tempo: 0.025000	Numero confronti : 12847782  	Numero scambi : 129314    
+Heap Sort       : tempo: 0.004000	Numero confronti : 716755    	Numero scambi : 784464    
+Merge Sort      : tempo: 0.005000	Numero confronti : 1411318   	Numero scambi : 813939    
+
+
+
+NUMERO ELEMENTI: 500
+INSIEME ORDINATO
+Selection Sort  : tempo: 0.000000	Numero confronti : 124750    	Numero scambi : 499       
+Insertion Sort  : tempo: 0.000000	Numero confronti : 499       	Numero scambi : 499       
+Quick Sort      : tempo: 0.000000	Numero confronti : 125748    	Numero scambi : 499       
+Heap Sort       : tempo: 0.000000	Numero confronti : 2272      	Numero scambi : 4488      
+Merge Sort      : tempo: 0.000000	Numero confronti : 7792      	Numero scambi : 5103      
+
+
+INSIEME QUASI_ORDINATO
+Selection Sort  : tempo: 0.000000	Numero confronti : 124750    	Numero scambi : 499       
+Insertion Sort  : tempo: 0.000000	Numero confronti : 65723     	Numero scambi : 65724     
+Quick Sort      : tempo: 0.000000	Numero confronti : 6933      	Numero scambi : 1061      
+Heap Sort       : tempo: 0.000000	Numero confronti : 3047      	Numero scambi : 4488      
+Merge Sort      : tempo: 0.000000	Numero confronti : 7530      	Numero scambi : 4776      
+
+
+INSIEME INV_ORDINATO
+Selection Sort  : tempo: 0.000000	Numero confronti : 124750    	Numero scambi : 499       
+Insertion Sort  : tempo: 0.001000	Numero confronti : 124750    	Numero scambi : 125249    
+Quick Sort      : tempo: 0.000000	Numero confronti : 125748    	Numero scambi : 499       
+Heap Sort       : tempo: 0.000000	Numero confronti : 2216      	Numero scambi : 4488      
+Merge Sort      : tempo: 0.000000	Numero confronti : 7028      	Numero scambi : 4425      
+
+
+INSIEME CASUALE
+Selection Sort  : tempo: 0.000000	Numero confronti : 124750    	Numero scambi : 499       
+Insertion Sort  : tempo: 0.000000	Numero confronti : 57152     	Numero scambi : 57158     
+Quick Sort      : tempo: 0.001000	Numero confronti : 5753      	Numero scambi : 1113      
+Heap Sort       : tempo: 0.000000	Numero confronti : 3841      	Numero scambi : 4488      
+Merge Sort      : tempo: 0.000000	Numero confronti : 7470      	Numero scambi : 4825      
+
+
+
+NUMERO ELEMENTI: 1000
+INSIEME ORDINATO
+Selection Sort  : tempo: 0.001000	Numero confronti : 499500    	Numero scambi : 999       
+Insertion Sort  : tempo: 0.000000	Numero confronti : 999       	Numero scambi : 999       
+Quick Sort      : tempo: 0.001000	Numero confronti : 501498    	Numero scambi : 999       
+Heap Sort       : tempo: 0.000000	Numero confronti : 5044      	Numero scambi : 9976      
+Merge Sort      : tempo: 0.000000	Numero confronti : 17626     	Numero scambi : 11207     
+
+
+INSIEME QUASI_ORDINATO
+Selection Sort  : tempo: 0.001000	Numero confronti : 499500    	Numero scambi : 999       
+Insertion Sort  : tempo: 0.000000	Numero confronti : 287346    	Numero scambi : 287347    
+Quick Sort      : tempo: 0.001000	Numero confronti : 14943     	Numero scambi : 2447      
+Heap Sort       : tempo: 0.000000	Numero confronti : 6735      	Numero scambi : 9976      
+Merge Sort      : tempo: 0.000000	Numero confronti : 17076     	Numero scambi : 10488     
+
+
+INSIEME INV_ORDINATO
+Selection Sort  : tempo: 0.001000	Numero confronti : 499500    	Numero scambi : 999       
+Insertion Sort  : tempo: 0.001000	Numero confronti : 499500    	Numero scambi : 500499    
+Quick Sort      : tempo: 0.001000	Numero confronti : 501498    	Numero scambi : 999       
+Heap Sort       : tempo: 0.000000	Numero confronti : 4932      	Numero scambi : 9976      
+Merge Sort      : tempo: 0.000000	Numero confronti : 15982     	Numero scambi : 9815      
+
+
+INSIEME CASUALE
+Selection Sort  : tempo: 0.001000	Numero confronti : 499500    	Numero scambi : 999       
+Insertion Sort  : tempo: 0.000000	Numero confronti : 246785    	Numero scambi : 246786    
+Quick Sort      : tempo: 0.001000	Numero confronti : 15099     	Numero scambi : 2402      
+Heap Sort       : tempo: 0.000000	Numero confronti : 8689      	Numero scambi : 9976      
+Merge Sort      : tempo: 0.000000	Numero confronti : 16948     	Numero scambi : 10647     
+
+
+
+NUMERO ELEMENTI: 2000
+INSIEME ORDINATO
+Selection Sort  : tempo: 0.003000	Numero confronti : 1999000   	Numero scambi : 1999      
+Insertion Sort  : tempo: 0.000000	Numero confronti : 1999      	Numero scambi : 1999      
+Quick Sort      : tempo: 0.003000	Numero confronti : 2002998   	Numero scambi : 1999      
+Heap Sort       : tempo: 0.000000	Numero confronti : 11088     	Numero scambi : 21952     
+Merge Sort      : tempo: 0.000000	Numero confronti : 39190     	Numero scambi : 24299     
+
+
+INSIEME QUASI_ORDINATO
+Selection Sort  : tempo: 0.004000	Numero confronti : 1999000   	Numero scambi : 1999      
+Insertion Sort  : tempo: 0.003000	Numero confronti : 1191430   	Numero scambi : 1191431   
+Quick Sort      : tempo: 0.001000	Numero confronti : 288635    	Numero scambi : 4560      
+Heap Sort       : tempo: 0.000000	Numero confronti : 14849     	Numero scambi : 21952     
+Merge Sort      : tempo: 0.000000	Numero confronti : 38166     	Numero scambi : 22893     
+
+
+INSIEME INV_ORDINATO
+Selection Sort  : tempo: 0.003000	Numero confronti : 1999000   	Numero scambi : 1999      
+Insertion Sort  : tempo: 0.005000	Numero confronti : 1999000   	Numero scambi : 2000999   
+Quick Sort      : tempo: 0.004000	Numero confronti : 2002998   	Numero scambi : 1999      
+Heap Sort       : tempo: 0.000000	Numero confronti : 10864     	Numero scambi : 21952     
+Merge Sort      : tempo: 0.000000	Numero confronti : 35986     	Numero scambi : 21707     
+
+
+INSIEME CASUALE
+Selection Sort  : tempo: 0.004000	Numero confronti : 1999000   	Numero scambi : 1999      
+Insertion Sort  : tempo: 0.002000	Numero confronti : 974854    	Numero scambi : 974857    
+Quick Sort      : tempo: 0.000000	Numero confronti : 39382     	Numero scambi : 4946      
+Heap Sort       : tempo: 0.001000	Numero confronti : 19393     	Numero scambi : 21952     
+Merge Sort      : tempo: 0.000000	Numero confronti : 37756     	Numero scambi : 23215     
+
+
+
+NUMERO ELEMENTI: 5000
+INSIEME ORDINATO
+Selection Sort  : tempo: 0.023000	Numero confronti : 12497500  	Numero scambi : 4999      
+Insertion Sort  : tempo: 0.000000	Numero confronti : 4999      	Numero scambi : 4999      
+Quick Sort      : tempo: 0.023000	Numero confronti : 12507498  	Numero scambi : 4999      
+Heap Sort       : tempo: 0.000000	Numero confronti : 32004     	Numero scambi : 61808     
+Merge Sort      : tempo: 0.001000	Numero confronti : 112186    	Numero scambi : 68431     
+
+
+INSIEME QUASI_ORDINATO
+Selection Sort  : tempo: 0.023000	Numero confronti : 12497500  	Numero scambi : 4999      
+Insertion Sort  : tempo: 0.018000	Numero confronti : 7703034   	Numero scambi : 7703035   
+Quick Sort      : tempo: 0.002000	Numero confronti : 888391    	Numero scambi : 12789     
+Heap Sort       : tempo: 0.000000	Numero confronti : 42459     	Numero scambi : 61808     
+Merge Sort      : tempo: 0.001000	Numero confronti : 108972    	Numero scambi : 63908     
+
+
+INSIEME INV_ORDINATO
+Selection Sort  : tempo: 0.023000	Numero confronti : 12497500  	Numero scambi : 4999      
+Insertion Sort  : tempo: 0.031000	Numero confronti : 12497500  	Numero scambi : 12502499  
+Quick Sort      : tempo: 0.023000	Numero confronti : 12507498  	Numero scambi : 4999      
+Heap Sort       : tempo: 0.000000	Numero confronti : 29804     	Numero scambi : 61808     
+Merge Sort      : tempo: 0.001000	Numero confronti : 103264    	Numero scambi : 60935     
+
+
+INSIEME CASUALE
+Selection Sort  : tempo: 0.023000	Numero confronti : 12497500  	Numero scambi : 4999      
+Insertion Sort  : tempo: 0.015000	Numero confronti : 6275921   	Numero scambi : 6275926   
+Quick Sort      : tempo: 0.000000	Numero confronti : 170325    	Numero scambi : 12871     
+Heap Sort       : tempo: 0.001000	Numero confronti : 55138     	Numero scambi : 61808     
+Merge Sort      : tempo: 0.000000	Numero confronti : 107834    	Numero scambi : 64745     
+
+
+
+NUMERO ELEMENTI: 10000
+INSIEME ORDINATO
+Selection Sort  : tempo: 0.091000	Numero confronti : 49995000  	Numero scambi : 9999      
+Insertion Sort  : tempo: 0.000000	Numero confronti : 9999      	Numero scambi : 9999      
+Quick Sort      : tempo: 0.091000	Numero confronti : 50014998  	Numero scambi : 9999      
+Heap Sort       : tempo: 0.001000	Numero confronti : 69008     	Numero scambi : 133616    
+Merge Sort      : tempo: 0.001000	Numero confronti : 244576    	Numero scambi : 146955    
+
+
+INSIEME QUASI_ORDINATO
+Selection Sort  : tempo: 0.092000	Numero confronti : 49995000  	Numero scambi : 9999      
+Insertion Sort  : tempo: 0.074000	Numero confronti : 31051031  	Numero scambi : 31051032  
+Quick Sort      : tempo: 0.022000	Numero confronti : 12188478  	Numero scambi : 22548     
+Heap Sort       : tempo: 0.000000	Numero confronti : 92342     	Numero scambi : 133616    
+Merge Sort      : tempo: 0.001000	Numero confronti : 237988    	Numero scambi : 137711    
+
+
+INSIEME INV_ORDINATO
+Selection Sort  : tempo: 0.092000	Numero confronti : 49995000  	Numero scambi : 9999      
+Insertion Sort  : tempo: 0.120000	Numero confronti : 49995000  	Numero scambi : 50004999  
+Quick Sort      : tempo: 0.091000	Numero confronti : 50014998  	Numero scambi : 9999      
+Heap Sort       : tempo: 0.001000	Numero confronti : 64608     	Numero scambi : 133616    
+Merge Sort      : tempo: 0.001000	Numero confronti : 226720    	Numero scambi : 131695    
+
+
+INSIEME CASUALE
+Selection Sort  : tempo: 0.090000	Numero confronti : 49995000  	Numero scambi : 9999      
+Insertion Sort  : tempo: 0.059000	Numero confronti : 24440369  	Numero scambi : 24440371  
+Quick Sort      : tempo: 0.001000	Numero confronti : 587412    	Numero scambi : 25710     
+Heap Sort       : tempo: 0.001000	Numero confronti : 120351    	Numero scambi : 133616    
+Merge Sort      : tempo: 0.001000	Numero confronti : 235702    	Numero scambi : 139468    
+
+
+
+NUMERO ELEMENTI: 20000
+INSIEME ORDINATO
+Selection Sort  : tempo: 0.365000	Numero confronti : 199990000 	Numero scambi : 19999     
+Insertion Sort  : tempo: 0.001000	Numero confronti : 19999     	Numero scambi : 19999     
+Quick Sort      : tempo: 0.367000	Numero confronti : 200029998 	Numero scambi : 19999     
+Heap Sort       : tempo: 0.001000	Numero confronti : 148016    	Numero scambi : 287232    
+Merge Sort      : tempo: 0.002000	Numero confronti : 529096    	Numero scambi : 312877    
+
+
+INSIEME QUASI_ORDINATO
+Selection Sort  : tempo: 0.367000	Numero confronti : 199990000 	Numero scambi : 19999     
+Insertion Sort  : tempo: 0.294000	Numero confronti : 124402529 	Numero scambi : 124402530 
+Quick Sort      : tempo: 0.090000	Numero confronti : 48640210  	Numero scambi : 45700     
+Heap Sort       : tempo: 0.001000	Numero confronti : 199460    	Numero scambi : 287232    
+Merge Sort      : tempo: 0.002000	Numero confronti : 516088    	Numero scambi : 295566    
+
+
+INSIEME INV_ORDINATO
+Selection Sort  : tempo: 0.366000	Numero confronti : 199990000 	Numero scambi : 19999     
+Insertion Sort  : tempo: 0.473000	Numero confronti : 199990000 	Numero scambi : 200009999 
+Quick Sort      : tempo: 0.368000	Numero confronti : 200029998 	Numero scambi : 19999     
+Heap Sort       : tempo: 0.001000	Numero confronti : 139216    	Numero scambi : 287232    
+Merge Sort      : tempo: 0.002000	Numero confronti : 493382    	Numero scambi : 284333    
+
+
+INSIEME CASUALE
+Selection Sort  : tempo: 0.372000	Numero confronti : 199990000 	Numero scambi : 19999     
+Insertion Sort  : tempo: 0.232000	Numero confronti : 98726998  	Numero scambi : 98727002  
+Quick Sort      : tempo: 0.004000	Numero confronti : 2194474   	Numero scambi : 51186     
+Heap Sort       : tempo: 0.002000	Numero confronti : 260314    	Numero scambi : 287232    
+Merge Sort      : tempo: 0.002000	Numero confronti : 511412    	Numero scambi : 299098    
+
+
+
+NUMERO ELEMENTI: 50000
+INSIEME ORDINATO
+Selection Sort  : tempo: 2.286000	Numero confronti : 1249975000	Numero scambi : 49999     
+Insertion Sort  : tempo: 0.000000	Numero confronti : 49999     	Numero scambi : 49999     
+Quick Sort      : tempo: 2.309000	Numero confronti : 1250074998	Numero scambi : 49999     
+Heap Sort       : tempo: 0.003000	Numero confronti : 401952    	Numero scambi : 784464    
+Merge Sort      : tempo: 0.005000	Numero confronti : 1455476   	Numero scambi : 848303    
+
+
+INSIEME QUASI_ORDINATO
+Selection Sort  : tempo: 2.352000	Numero confronti : 1249975000	Numero scambi : 49999     
+Insertion Sort  : tempo: 1.836000	Numero confronti : 779823925 	Numero scambi : 779823926 
+Quick Sort      : tempo: 0.558000	Numero confronti : 303869968 	Numero scambi : 113669    
+Heap Sort       : tempo: 0.004000	Numero confronti : 547080    	Numero scambi : 784464    
+Merge Sort      : tempo: 0.005000	Numero confronti : 1422642   	Numero scambi : 804807    
+
+
+INSIEME INV_ORDINATO
+Selection Sort  : tempo: 2.297000	Numero confronti : 1249975000	Numero scambi : 49999     
+Insertion Sort  : tempo: 2.977000	Numero confronti : 1249975000	Numero scambi : 1250024999
+Quick Sort      : tempo: 2.288000	Numero confronti : 1250074998	Numero scambi : 49999     
+Heap Sort       : tempo: 0.003000	Numero confronti : 382512    	Numero scambi : 784464    
+Merge Sort      : tempo: 0.005000	Numero confronti : 1366152   	Numero scambi : 773891    
+
+
+INSIEME CASUALE
+Selection Sort  : tempo: 2.281000	Numero confronti : 1249975000	Numero scambi : 49999     
+Insertion Sort  : tempo: 1.461000	Numero confronti : 619860120 	Numero scambi : 619860121 
+Quick Sort      : tempo: 0.024000	Numero confronti : 12869714  	Numero scambi : 128371    
+Heap Sort       : tempo: 0.004000	Numero confronti : 716706    	Numero scambi : 784464    
+Merge Sort      : tempo: 0.005000	Numero confronti : 1410984   	Numero scambi : 813851    
+
+
+
+NUMERO ELEMENTI: 500
+INSIEME ORDINATO
+Selection Sort  : tempo: 0.000000	Numero confronti : 124750    	Numero scambi : 499       
+Insertion Sort  : tempo: 0.000000	Numero confronti : 499       	Numero scambi : 499       
+Quick Sort      : tempo: 0.000000	Numero confronti : 125748    	Numero scambi : 499       
+Heap Sort       : tempo: 0.000000	Numero confronti : 2272      	Numero scambi : 4488      
+Merge Sort      : tempo: 0.000000	Numero confronti : 7792      	Numero scambi : 5103      
+
+
+INSIEME QUASI_ORDINATO
+Selection Sort  : tempo: 0.000000	Numero confronti : 124750    	Numero scambi : 499       
+Insertion Sort  : tempo: 0.000000	Numero confronti : 66737     	Numero scambi : 66738     
+Quick Sort      : tempo: 0.000000	Numero confronti : 9809      	Numero scambi : 1040      
+Heap Sort       : tempo: 0.000000	Numero confronti : 3018      	Numero scambi : 4488      
+Merge Sort      : tempo: 0.000000	Numero confronti : 7492      	Numero scambi : 4741      
+
+
+INSIEME INV_ORDINATO
+Selection Sort  : tempo: 0.000000	Numero confronti : 124750    	Numero scambi : 499       
+Insertion Sort  : tempo: 0.001000	Numero confronti : 124750    	Numero scambi : 125249    
+Quick Sort      : tempo: 0.000000	Numero confronti : 125748    	Numero scambi : 499       
+Heap Sort       : tempo: 0.000000	Numero confronti : 2216      	Numero scambi : 4488      
+Merge Sort      : tempo: 0.000000	Numero confronti : 7028      	Numero scambi : 4425      
+
+
+INSIEME CASUALE
+Selection Sort  : tempo: 0.000000	Numero confronti : 124750    	Numero scambi : 499       
+Insertion Sort  : tempo: 0.000000	Numero confronti : 60560     	Numero scambi : 60563     
+Quick Sort      : tempo: 0.000000	Numero confronti : 5622      	Numero scambi : 1097      
+Heap Sort       : tempo: 0.000000	Numero confronti : 3879      	Numero scambi : 4488      
+Merge Sort      : tempo: 0.000000	Numero confronti : 7436      	Numero scambi : 4799      
+
+
+
+NUMERO ELEMENTI: 1000
+INSIEME ORDINATO
+Selection Sort  : tempo: 0.001000	Numero confronti : 499500    	Numero scambi : 999       
+Insertion Sort  : tempo: 0.000000	Numero confronti : 999       	Numero scambi : 999       
+Quick Sort      : tempo: 0.001000	Numero confronti : 501498    	Numero scambi : 999       
+Heap Sort       : tempo: 0.000000	Numero confronti : 5044      	Numero scambi : 9976      
+Merge Sort      : tempo: 0.000000	Numero confronti : 17626     	Numero scambi : 11207     
+
+
+INSIEME QUASI_ORDINATO
+Selection Sort  : tempo: 0.001000	Numero confronti : 499500    	Numero scambi : 999       
+Insertion Sort  : tempo: 0.001000	Numero confronti : 288748    	Numero scambi : 288749    
+Quick Sort      : tempo: 0.000000	Numero confronti : 15931     	Numero scambi : 2476      
+Heap Sort       : tempo: 0.000000	Numero confronti : 6719      	Numero scambi : 9976      
+Merge Sort      : tempo: 0.000000	Numero confronti : 17090     	Numero scambi : 10501     
+
+
+INSIEME INV_ORDINATO
+Selection Sort  : tempo: 0.001000	Numero confronti : 499500    	Numero scambi : 999       
+Insertion Sort  : tempo: 0.002000	Numero confronti : 499500    	Numero scambi : 500499    
+Quick Sort      : tempo: 0.001000	Numero confronti : 501498    	Numero scambi : 999       
+Heap Sort       : tempo: 0.000000	Numero confronti : 4932      	Numero scambi : 9976      
+Merge Sort      : tempo: 0.000000	Numero confronti : 15982     	Numero scambi : 9815      
+
+
+INSIEME CASUALE
+Selection Sort  : tempo: 0.001000	Numero confronti : 499500    	Numero scambi : 999       
+Insertion Sort  : tempo: 0.000000	Numero confronti : 246691    	Numero scambi : 246695    
+Quick Sort      : tempo: 0.000000	Numero confronti : 15127     	Numero scambi : 2308      
+Heap Sort       : tempo: 0.000000	Numero confronti : 8735      	Numero scambi : 9976      
+Merge Sort      : tempo: 0.000000	Numero confronti : 16868     	Numero scambi : 10603     
+
+
+
+NUMERO ELEMENTI: 2000
+INSIEME ORDINATO
+Selection Sort  : tempo: 0.003000	Numero confronti : 1999000   	Numero scambi : 1999      
+Insertion Sort  : tempo: 0.000000	Numero confronti : 1999      	Numero scambi : 1999      
+Quick Sort      : tempo: 0.003000	Numero confronti : 2002998   	Numero scambi : 1999      
+Heap Sort       : tempo: 0.000000	Numero confronti : 11088     	Numero scambi : 21952     
+Merge Sort      : tempo: 0.000000	Numero confronti : 39190     	Numero scambi : 24299     
+
+
+INSIEME QUASI_ORDINATO
+Selection Sort  : tempo: 0.004000	Numero confronti : 1999000   	Numero scambi : 1999      
+Insertion Sort  : tempo: 0.003000	Numero confronti : 1194873   	Numero scambi : 1194874   
+Quick Sort      : tempo: 0.001000	Numero confronti : 321675    	Numero scambi : 4557      
+Heap Sort       : tempo: 0.000000	Numero confronti : 14849     	Numero scambi : 21952     
+Merge Sort      : tempo: 0.000000	Numero confronti : 38156     	Numero scambi : 22887     
+
+
+INSIEME INV_ORDINATO
+Selection Sort  : tempo: 0.003000	Numero confronti : 1999000   	Numero scambi : 1999      
+Insertion Sort  : tempo: 0.005000	Numero confronti : 1999000   	Numero scambi : 2000999   
+Quick Sort      : tempo: 0.004000	Numero confronti : 2002998   	Numero scambi : 1999      
+Heap Sort       : tempo: 0.000000	Numero confronti : 10864     	Numero scambi : 21952     
+Merge Sort      : tempo: 0.000000	Numero confronti : 35986     	Numero scambi : 21707     
+
+
+INSIEME CASUALE
+Selection Sort  : tempo: 0.003000	Numero confronti : 1999000   	Numero scambi : 1999      
+Insertion Sort  : tempo: 0.003000	Numero confronti : 989663    	Numero scambi : 989665    
+Quick Sort      : tempo: 0.000000	Numero confronti : 40784     	Numero scambi : 4991      
+Heap Sort       : tempo: 0.000000	Numero confronti : 19386     	Numero scambi : 21952     
+Merge Sort      : tempo: 0.001000	Numero confronti : 37800     	Numero scambi : 23241     
+
+
+
+NUMERO ELEMENTI: 5000
+INSIEME ORDINATO
+Selection Sort  : tempo: 0.022000	Numero confronti : 12497500  	Numero scambi : 4999      
+Insertion Sort  : tempo: 0.000000	Numero confronti : 4999      	Numero scambi : 4999      
+Quick Sort      : tempo: 0.022000	Numero confronti : 12507498  	Numero scambi : 4999      
+Heap Sort       : tempo: 0.000000	Numero confronti : 32004     	Numero scambi : 61808     
+Merge Sort      : tempo: 0.000000	Numero confronti : 112186    	Numero scambi : 68431     
+
+
+INSIEME QUASI_ORDINATO
+Selection Sort  : tempo: 0.023000	Numero confronti : 12497500  	Numero scambi : 4999      
+Insertion Sort  : tempo: 0.018000	Numero confronti : 7690646   	Numero scambi : 7690647   
+Quick Sort      : tempo: 0.002000	Numero confronti : 1031929   	Numero scambi : 12706     
+Heap Sort       : tempo: 0.001000	Numero confronti : 42499     	Numero scambi : 61808     
+Merge Sort      : tempo: 0.000000	Numero confronti : 108984    	Numero scambi : 63877     
+
+
+INSIEME INV_ORDINATO
+Selection Sort  : tempo: 0.023000	Numero confronti : 12497500  	Numero scambi : 4999      
+Insertion Sort  : tempo: 0.029000	Numero confronti : 12497500  	Numero scambi : 12502499  
+Quick Sort      : tempo: 0.023000	Numero confronti : 12507498  	Numero scambi : 4999      
+Heap Sort       : tempo: 0.001000	Numero confronti : 29804     	Numero scambi : 61808     
+Merge Sort      : tempo: 0.000000	Numero confronti : 103264    	Numero scambi : 60935     
+
+
+INSIEME CASUALE
+Selection Sort  : tempo: 0.022000	Numero confronti : 12497500  	Numero scambi : 4999      
+Insertion Sort  : tempo: 0.014000	Numero confronti : 6175329   	Numero scambi : 6175335   
+Quick Sort      : tempo: 0.001000	Numero confronti : 172623    	Numero scambi : 12647     
+Heap Sort       : tempo: 0.000000	Numero confronti : 55082     	Numero scambi : 61808     
+Merge Sort      : tempo: 0.001000	Numero confronti : 107768    	Numero scambi : 64741     
+
+
+
+NUMERO ELEMENTI: 10000
+INSIEME ORDINATO
+Selection Sort  : tempo: 0.092000	Numero confronti : 49995000  	Numero scambi : 9999      
+Insertion Sort  : tempo: 0.000000	Numero confronti : 9999      	Numero scambi : 9999      
+Quick Sort      : tempo: 0.091000	Numero confronti : 50014998  	Numero scambi : 9999      
+Heap Sort       : tempo: 0.001000	Numero confronti : 69008     	Numero scambi : 133616    
+Merge Sort      : tempo: 0.000000	Numero confronti : 244576    	Numero scambi : 146955    
+
+
+INSIEME QUASI_ORDINATO
+Selection Sort  : tempo: 0.093000	Numero confronti : 49995000  	Numero scambi : 9999      
+Insertion Sort  : tempo: 0.074000	Numero confronti : 31024278  	Numero scambi : 31024279  
+Quick Sort      : tempo: 0.001000	Numero confronti : 545541    	Numero scambi : 29357     
+Heap Sort       : tempo: 0.001000	Numero confronti : 92364     	Numero scambi : 133616    
+Merge Sort      : tempo: 0.001000	Numero confronti : 238044    	Numero scambi : 137756    
+
+
+INSIEME INV_ORDINATO
+Selection Sort  : tempo: 0.092000	Numero confronti : 49995000  	Numero scambi : 9999      
+Insertion Sort  : tempo: 0.117000	Numero confronti : 49995000  	Numero scambi : 50004999  
+Quick Sort      : tempo: 0.092000	Numero confronti : 50014998  	Numero scambi : 9999      
+Heap Sort       : tempo: 0.000000	Numero confronti : 64608     	Numero scambi : 133616    
+Merge Sort      : tempo: 0.001000	Numero confronti : 226720    	Numero scambi : 131695    
+
+
+INSIEME CASUALE
+Selection Sort  : tempo: 0.092000	Numero confronti : 49995000  	Numero scambi : 9999      
+Insertion Sort  : tempo: 0.058000	Numero confronti : 24745526  	Numero scambi : 24745530  
+Quick Sort      : tempo: 0.002000	Numero confronti : 611560    	Numero scambi : 25320     
+Heap Sort       : tempo: 0.001000	Numero confronti : 120231    	Numero scambi : 133616    
+Merge Sort      : tempo: 0.001000	Numero confronti : 235572    	Numero scambi : 139518    
+
+
+
+NUMERO ELEMENTI: 20000
+INSIEME ORDINATO
+Selection Sort  : tempo: 0.365000	Numero confronti : 199990000 	Numero scambi : 19999     
+Insertion Sort  : tempo: 0.000000	Numero confronti : 19999     	Numero scambi : 19999     
+Quick Sort      : tempo: 0.365000	Numero confronti : 200029998 	Numero scambi : 19999     
+Heap Sort       : tempo: 0.001000	Numero confronti : 148016    	Numero scambi : 287232    
+Merge Sort      : tempo: 0.002000	Numero confronti : 529096    	Numero scambi : 312877    
+
+
+INSIEME QUASI_ORDINATO
+Selection Sort  : tempo: 0.366000	Numero confronti : 199990000 	Numero scambi : 19999     
+Insertion Sort  : tempo: 0.292000	Numero confronti : 124220354 	Numero scambi : 124220355 
+Quick Sort      : tempo: 0.089000	Numero confronti : 48574065  	Numero scambi : 45532     
+Heap Sort       : tempo: 0.001000	Numero confronti : 199423    	Numero scambi : 287232    
+Merge Sort      : tempo: 0.002000	Numero confronti : 515962    	Numero scambi : 295441    
+
+
+INSIEME INV_ORDINATO
+Selection Sort  : tempo: 0.366000	Numero confronti : 199990000 	Numero scambi : 19999     
+Insertion Sort  : tempo: 0.470000	Numero confronti : 199990000 	Numero scambi : 200009999 
+Quick Sort      : tempo: 0.368000	Numero confronti : 200029998 	Numero scambi : 19999     
+Heap Sort       : tempo: 0.001000	Numero confronti : 139216    	Numero scambi : 287232    
+Merge Sort      : tempo: 0.002000	Numero confronti : 493382    	Numero scambi : 284333    
+
+
+INSIEME CASUALE
+Selection Sort  : tempo: 0.366000	Numero confronti : 199990000 	Numero scambi : 19999     
+Insertion Sort  : tempo: 0.232000	Numero confronti : 98996215  	Numero scambi : 98996220  
+Quick Sort      : tempo: 0.004000	Numero confronti : 2178828   	Numero scambi : 51290     
+Heap Sort       : tempo: 0.001000	Numero confronti : 260291    	Numero scambi : 287232    
+Merge Sort      : tempo: 0.002000	Numero confronti : 511320    	Numero scambi : 298930    
+
+
+
+NUMERO ELEMENTI: 50000
+INSIEME ORDINATO
+Selection Sort  : tempo: 2.287000	Numero confronti : 1249975000	Numero scambi : 49999     
+Insertion Sort  : tempo: 0.000000	Numero confronti : 49999     	Numero scambi : 49999     
+Quick Sort      : tempo: 2.296000	Numero confronti : 1250074998	Numero scambi : 49999     
+Heap Sort       : tempo: 0.002000	Numero confronti : 401952    	Numero scambi : 784464    
+Merge Sort      : tempo: 0.005000	Numero confronti : 1455476   	Numero scambi : 848303    
+
+
+INSIEME QUASI_ORDINATO
+Selection Sort  : tempo: 2.295000	Numero confronti : 1249975000	Numero scambi : 49999     
+Insertion Sort  : tempo: 1.827000	Numero confronti : 777911042 	Numero scambi : 777911043 
+Quick Sort      : tempo: 0.555000	Numero confronti : 303810088 	Numero scambi : 113262    
+Heap Sort       : tempo: 0.003000	Numero confronti : 546880    	Numero scambi : 784464    
+Merge Sort      : tempo: 0.005000	Numero confronti : 1422340   	Numero scambi : 804690    
+
+
+INSIEME INV_ORDINATO
+Selection Sort  : tempo: 2.292000	Numero confronti : 1249975000	Numero scambi : 49999     
+Insertion Sort  : tempo: 2.946000	Numero confronti : 1249975000	Numero scambi : 1250024999
+Quick Sort      : tempo: 2.283000	Numero confronti : 1250074998	Numero scambi : 49999     
+Heap Sort       : tempo: 0.003000	Numero confronti : 382512    	Numero scambi : 784464    
+Merge Sort      : tempo: 0.005000	Numero confronti : 1366152   	Numero scambi : 773891    
+
+
+INSIEME CASUALE
+Selection Sort  : tempo: 2.290000	Numero confronti : 1249975000	Numero scambi : 49999     
+Insertion Sort  : tempo: 1.452000	Numero confronti : 618220558 	Numero scambi : 618220564 
+Quick Sort      : tempo: 0.025000	Numero confronti : 12896615  	Numero scambi : 127803    
+Heap Sort       : tempo: 0.004000	Numero confronti : 716722    	Numero scambi : 784464    
+Merge Sort      : tempo: 0.006000	Numero confronti : 1410986   	Numero scambi : 813958    
+
+
+
+NUMERO ELEMENTI: 500
+INSIEME ORDINATO
+Selection Sort  : tempo: 0.000000	Numero confronti : 124750    	Numero scambi : 499       
+Insertion Sort  : tempo: 0.000000	Numero confronti : 499       	Numero scambi : 499       
+Quick Sort      : tempo: 0.001000	Numero confronti : 125748    	Numero scambi : 499       
+Heap Sort       : tempo: 0.000000	Numero confronti : 2272      	Numero scambi : 4488      
+Merge Sort      : tempo: 0.000000	Numero confronti : 7792      	Numero scambi : 5103      
+
+
+INSIEME QUASI_ORDINATO
+Selection Sort  : tempo: 0.000000	Numero confronti : 124750    	Numero scambi : 499       
+Insertion Sort  : tempo: 0.000000	Numero confronti : 66156     	Numero scambi : 66157     
+Quick Sort      : tempo: 0.001000	Numero confronti : 13939     	Numero scambi : 1000      
+Heap Sort       : tempo: 0.000000	Numero confronti : 3041      	Numero scambi : 4488      
+Merge Sort      : tempo: 0.000000	Numero confronti : 7502      	Numero scambi : 4762      
+
+
+INSIEME INV_ORDINATO
+Selection Sort  : tempo: 0.001000	Numero confronti : 124750    	Numero scambi : 499       
+Insertion Sort  : tempo: 0.000000	Numero confronti : 124750    	Numero scambi : 125249    
+Quick Sort      : tempo: 0.000000	Numero confronti : 125748    	Numero scambi : 499       
+Heap Sort       : tempo: 0.001000	Numero confronti : 2216      	Numero scambi : 4488      
+Merge Sort      : tempo: 0.000000	Numero confronti : 7028      	Numero scambi : 4425      
+
+
+INSIEME CASUALE
+Selection Sort  : tempo: 0.001000	Numero confronti : 124750    	Numero scambi : 499       
+Insertion Sort  : tempo: 0.000000	Numero confronti : 63939     	Numero scambi : 63944     
+Quick Sort      : tempo: 0.000000	Numero confronti : 6007      	Numero scambi : 1096      
+Heap Sort       : tempo: 0.000000	Numero confronti : 3832      	Numero scambi : 4488      
+Merge Sort      : tempo: 0.000000	Numero confronti : 7466      	Numero scambi : 4822      
+
+
+
+NUMERO ELEMENTI: 1000
+INSIEME ORDINATO
+Selection Sort  : tempo: 0.001000	Numero confronti : 499500    	Numero scambi : 999       
+Insertion Sort  : tempo: 0.000000	Numero confronti : 999       	Numero scambi : 999       
+Quick Sort      : tempo: 0.001000	Numero confronti : 501498    	Numero scambi : 999       
+Heap Sort       : tempo: 0.000000	Numero confronti : 5044      	Numero scambi : 9976      
+Merge Sort      : tempo: 0.000000	Numero confronti : 17626     	Numero scambi : 11207     
+
+
+INSIEME QUASI_ORDINATO
+Selection Sort  : tempo: 0.001000	Numero confronti : 499500    	Numero scambi : 999       
+Insertion Sort  : tempo: 0.001000	Numero confronti : 288618    	Numero scambi : 288619    
+Quick Sort      : tempo: 0.000000	Numero confronti : 16021     	Numero scambi : 2452      
+Heap Sort       : tempo: 0.000000	Numero confronti : 6731      	Numero scambi : 9976      
+Merge Sort      : tempo: 0.000000	Numero confronti : 17082     	Numero scambi : 10475     
+
+
+INSIEME INV_ORDINATO
+Selection Sort  : tempo: 0.001000	Numero confronti : 499500    	Numero scambi : 999       
+Insertion Sort  : tempo: 0.001000	Numero confronti : 499500    	Numero scambi : 500499    
+Quick Sort      : tempo: 0.001000	Numero confronti : 501498    	Numero scambi : 999       
+Heap Sort       : tempo: 0.000000	Numero confronti : 4932      	Numero scambi : 9976      
+Merge Sort      : tempo: 0.000000	Numero confronti : 15982     	Numero scambi : 9815      
+
+
+INSIEME CASUALE
+Selection Sort  : tempo: 0.001000	Numero confronti : 499500    	Numero scambi : 999       
+Insertion Sort  : tempo: 0.001000	Numero confronti : 256766    	Numero scambi : 256769    
+Quick Sort      : tempo: 0.000000	Numero confronti : 14931     	Numero scambi : 2349      
+Heap Sort       : tempo: 0.000000	Numero confronti : 8708      	Numero scambi : 9976      
+Merge Sort      : tempo: 0.001000	Numero confronti : 16926     	Numero scambi : 10646     
+
+
+
+NUMERO ELEMENTI: 2000
+INSIEME ORDINATO
+Selection Sort  : tempo: 0.004000	Numero confronti : 1999000   	Numero scambi : 1999      
+Insertion Sort  : tempo: 0.000000	Numero confronti : 1999      	Numero scambi : 1999      
+Quick Sort      : tempo: 0.004000	Numero confronti : 2002998   	Numero scambi : 1999      
+Heap Sort       : tempo: 0.000000	Numero confronti : 11088     	Numero scambi : 21952     
+Merge Sort      : tempo: 0.001000	Numero confronti : 39190     	Numero scambi : 24299     
+
+
+INSIEME QUASI_ORDINATO
+Selection Sort  : tempo: 0.004000	Numero confronti : 1999000   	Numero scambi : 1999      
+Insertion Sort  : tempo: 0.003000	Numero confronti : 1184647   	Numero scambi : 1184648   
+Quick Sort      : tempo: 0.001000	Numero confronti : 275429    	Numero scambi : 4553      
+Heap Sort       : tempo: 0.000000	Numero confronti : 14856     	Numero scambi : 21952     
+Merge Sort      : tempo: 0.000000	Numero confronti : 38106     	Numero scambi : 22856     
+
+
+INSIEME INV_ORDINATO
+Selection Sort  : tempo: 0.003000	Numero confronti : 1999000   	Numero scambi : 1999      
+Insertion Sort  : tempo: 0.006000	Numero confronti : 1999000   	Numero scambi : 2000999   
+Quick Sort      : tempo: 0.004000	Numero confronti : 2002998   	Numero scambi : 1999      
+Heap Sort       : tempo: 0.000000	Numero confronti : 10864     	Numero scambi : 21952     
+Merge Sort      : tempo: 0.000000	Numero confronti : 35986     	Numero scambi : 21707     
+
+
+INSIEME CASUALE
+Selection Sort  : tempo: 0.003000	Numero confronti : 1999000   	Numero scambi : 1999      
+Insertion Sort  : tempo: 0.003000	Numero confronti : 987271    	Numero scambi : 987276    
+Quick Sort      : tempo: 0.000000	Numero confronti : 40072     	Numero scambi : 4924      
+Heap Sort       : tempo: 0.001000	Numero confronti : 19404     	Numero scambi : 21952     
+Merge Sort      : tempo: 0.000000	Numero confronti : 37744     	Numero scambi : 23186     
+
+
+
+NUMERO ELEMENTI: 5000
+INSIEME ORDINATO
+Selection Sort  : tempo: 0.022000	Numero confronti : 12497500  	Numero scambi : 4999      
+Insertion Sort  : tempo: 0.000000	Numero confronti : 4999      	Numero scambi : 4999      
+Quick Sort      : tempo: 0.023000	Numero confronti : 12507498  	Numero scambi : 4999      
+Heap Sort       : tempo: 0.000000	Numero confronti : 32004     	Numero scambi : 61808     
+Merge Sort      : tempo: 0.001000	Numero confronti : 112186    	Numero scambi : 68431     
+
+
+INSIEME QUASI_ORDINATO
+Selection Sort  : tempo: 0.023000	Numero confronti : 12497500  	Numero scambi : 4999      
+Insertion Sort  : tempo: 0.020000	Numero confronti : 7700343   	Numero scambi : 7700344   
+Quick Sort      : tempo: 0.001000	Numero confronti : 656518    	Numero scambi : 13344     
+Heap Sort       : tempo: 0.000000	Numero confronti : 42414     	Numero scambi : 61808     
+Merge Sort      : tempo: 0.001000	Numero confronti : 109012    	Numero scambi : 63908     
+
+
+INSIEME INV_ORDINATO
+Selection Sort  : tempo: 0.023000	Numero confronti : 12497500  	Numero scambi : 4999      
+Insertion Sort  : tempo: 0.032000	Numero confronti : 12497500  	Numero scambi : 12502499  
+Quick Sort      : tempo: 0.023000	Numero confronti : 12507498  	Numero scambi : 4999      
+Heap Sort       : tempo: 0.001000	Numero confronti : 29804     	Numero scambi : 61808     
+Merge Sort      : tempo: 0.000000	Numero confronti : 103264    	Numero scambi : 60935     
+
+
+INSIEME CASUALE
+Selection Sort  : tempo: 0.022000	Numero confronti : 12497500  	Numero scambi : 4999      
+Insertion Sort  : tempo: 0.016000	Numero confronti : 6301976   	Numero scambi : 6301983   
+Quick Sort      : tempo: 0.001000	Numero confronti : 171922    	Numero scambi : 12658     
+Heap Sort       : tempo: 0.000000	Numero confronti : 55200     	Numero scambi : 61808     
+Merge Sort      : tempo: 0.000000	Numero confronti : 107826    	Numero scambi : 64778     
+
+
+
+NUMERO ELEMENTI: 10000
+INSIEME ORDINATO
+Selection Sort  : tempo: 0.091000	Numero confronti : 49995000  	Numero scambi : 9999      
+Insertion Sort  : tempo: 0.000000	Numero confronti : 9999      	Numero scambi : 9999      
+Quick Sort      : tempo: 0.089000	Numero confronti : 50014998  	Numero scambi : 9999      
+Heap Sort       : tempo: 0.001000	Numero confronti : 69008     	Numero scambi : 133616    
+Merge Sort      : tempo: 0.001000	Numero confronti : 244576    	Numero scambi : 146955    
+
+
+INSIEME QUASI_ORDINATO
+Selection Sort  : tempo: 0.091000	Numero confronti : 49995000  	Numero scambi : 9999      
+Insertion Sort  : tempo: 0.081000	Numero confronti : 30994210  	Numero scambi : 30994211  
+Quick Sort      : tempo: 0.022000	Numero confronti : 12206856  	Numero scambi : 22534     
+Heap Sort       : tempo: 0.001000	Numero confronti : 92280     	Numero scambi : 133616    
+Merge Sort      : tempo: 0.001000	Numero confronti : 238030    	Numero scambi : 137774    
+
+
+INSIEME INV_ORDINATO
+Selection Sort  : tempo: 0.093000	Numero confronti : 49995000  	Numero scambi : 9999      
+Insertion Sort  : tempo: 0.131000	Numero confronti : 49995000  	Numero scambi : 50004999  
+Quick Sort      : tempo: 0.091000	Numero confronti : 50014998  	Numero scambi : 9999      
+Heap Sort       : tempo: 0.000000	Numero confronti : 64608     	Numero scambi : 133616    
+Merge Sort      : tempo: 0.001000	Numero confronti : 226720    	Numero scambi : 131695    
+
+
+INSIEME CASUALE
+Selection Sort  : tempo: 0.092000	Numero confronti : 49995000  	Numero scambi : 9999      
+Insertion Sort  : tempo: 0.065000	Numero confronti : 24638130  	Numero scambi : 24638135  
+Quick Sort      : tempo: 0.001000	Numero confronti : 593047    	Numero scambi : 25558     
+Heap Sort       : tempo: 0.001000	Numero confronti : 120259    	Numero scambi : 133616    
+Merge Sort      : tempo: 0.001000	Numero confronti : 235726    	Numero scambi : 139483    
+
+
+
+NUMERO ELEMENTI: 20000
+INSIEME ORDINATO
+Selection Sort  : tempo: 0.368000	Numero confronti : 199990000 	Numero scambi : 19999     
+Insertion Sort  : tempo: 0.000000	Numero confronti : 19999     	Numero scambi : 19999     
+Quick Sort      : tempo: 0.365000	Numero confronti : 200029998 	Numero scambi : 19999     
+Heap Sort       : tempo: 0.001000	Numero confronti : 148016    	Numero scambi : 287232    
+Merge Sort      : tempo: 0.002000	Numero confronti : 529096    	Numero scambi : 312877    
+
+
+INSIEME QUASI_ORDINATO
+Selection Sort  : tempo: 0.367000	Numero confronti : 199990000 	Numero scambi : 19999     
+Insertion Sort  : tempo: 0.326000	Numero confronti : 124416286 	Numero scambi : 124416287 
+Quick Sort      : tempo: 0.089000	Numero confronti : 48436950  	Numero scambi : 45243     
+Heap Sort       : tempo: 0.003000	Numero confronti : 199380    	Numero scambi : 287232    
+Merge Sort      : tempo: 0.001000	Numero confronti : 515948    	Numero scambi : 295413    
+
+
+INSIEME INV_ORDINATO
+Selection Sort  : tempo: 0.367000	Numero confronti : 199990000 	Numero scambi : 19999     
+Insertion Sort  : tempo: 0.524000	Numero confronti : 199990000 	Numero scambi : 200009999 
+Quick Sort      : tempo: 0.365000	Numero confronti : 200029998 	Numero scambi : 19999     
+Heap Sort       : tempo: 0.001000	Numero confronti : 139216    	Numero scambi : 287232    
+Merge Sort      : tempo: 0.002000	Numero confronti : 493382    	Numero scambi : 284333    
+
+
+INSIEME CASUALE
+Selection Sort  : tempo: 0.364000	Numero confronti : 199990000 	Numero scambi : 19999     
+Insertion Sort  : tempo: 0.260000	Numero confronti : 98395095  	Numero scambi : 98395099  
+Quick Sort      : tempo: 0.004000	Numero confronti : 2181471   	Numero scambi : 51118     
+Heap Sort       : tempo: 0.001000	Numero confronti : 260482    	Numero scambi : 287232    
+Merge Sort      : tempo: 0.002000	Numero confronti : 511462    	Numero scambi : 299143    
+
+
+
+NUMERO ELEMENTI: 50000
+INSIEME ORDINATO
+Selection Sort  : tempo: 2.285000	Numero confronti : 1249975000	Numero scambi : 49999     
+Insertion Sort  : tempo: 0.000000	Numero confronti : 49999     	Numero scambi : 49999     
+Quick Sort      : tempo: 2.278000	Numero confronti : 1250074998	Numero scambi : 49999     
+Heap Sort       : tempo: 0.002000	Numero confronti : 401952    	Numero scambi : 784464    
+Merge Sort      : tempo: 0.005000	Numero confronti : 1455476   	Numero scambi : 848303    
+
+
+INSIEME QUASI_ORDINATO
+Selection Sort  : tempo: 2.284000	Numero confronti : 1249975000	Numero scambi : 49999     
+Insertion Sort  : tempo: 2.036000	Numero confronti : 778929014 	Numero scambi : 778929015 
+Quick Sort      : tempo: 0.555000	Numero confronti : 303585077 	Numero scambi : 114807    
+Heap Sort       : tempo: 0.003000	Numero confronti : 546995    	Numero scambi : 784464    
+Merge Sort      : tempo: 0.005000	Numero confronti : 1422304   	Numero scambi : 804771    
+
+
+INSIEME INV_ORDINATO
+Selection Sort  : tempo: 2.284000	Numero confronti : 1249975000	Numero scambi : 49999     
+Insertion Sort  : tempo: 3.271000	Numero confronti : 1249975000	Numero scambi : 1250024999
+Quick Sort      : tempo: 2.282000	Numero confronti : 1250074998	Numero scambi : 49999     
+Heap Sort       : tempo: 0.003000	Numero confronti : 382512    	Numero scambi : 784464    
+Merge Sort      : tempo: 0.004000	Numero confronti : 1366152   	Numero scambi : 773891    
+
+
+INSIEME CASUALE
+Selection Sort  : tempo: 2.294000	Numero confronti : 1249975000	Numero scambi : 49999     
+Insertion Sort  : tempo: 1.624000	Numero confronti : 620377985 	Numero scambi : 620377989 
+Quick Sort      : tempo: 0.025000	Numero confronti : 12923413  	Numero scambi : 128862    
+Heap Sort       : tempo: 0.004000	Numero confronti : 716633    	Numero scambi : 784464    
+Merge Sort      : tempo: 0.005000	Numero confronti : 1411128   	Numero scambi : 813905    
+
+
+
+NUMERO ELEMENTI: 500
+INSIEME ORDINATO
+Selection Sort  : tempo: 0.000000	Numero confronti : 124750    	Numero scambi : 499       
+Insertion Sort  : tempo: 0.000000	Numero confronti : 499       	Numero scambi : 499       
+Quick Sort      : tempo: 0.000000	Numero confronti : 125748    	Numero scambi : 499       
+Heap Sort       : tempo: 0.000000	Numero confronti : 2272      	Numero scambi : 4488      
+Merge Sort      : tempo: 0.001000	Numero confronti : 7792      	Numero scambi : 5103      
+
+
+INSIEME QUASI_ORDINATO
+Selection Sort  : tempo: 0.000000	Numero confronti : 124750    	Numero scambi : 499       
+Insertion Sort  : tempo: 0.001000	Numero confronti : 66261     	Numero scambi : 66261     
+Quick Sort      : tempo: 0.000000	Numero confronti : 10957     	Numero scambi : 1029      
+Heap Sort       : tempo: 0.000000	Numero confronti : 3046      	Numero scambi : 4488      
+Merge Sort      : tempo: 0.000000	Numero confronti : 7496      	Numero scambi : 4730      
+
+
+INSIEME INV_ORDINATO
+Selection Sort  : tempo: 0.000000	Numero confronti : 124750    	Numero scambi : 499       
+Insertion Sort  : tempo: 0.000000	Numero confronti : 124750    	Numero scambi : 125249    
+Quick Sort      : tempo: 0.001000	Numero confronti : 125748    	Numero scambi : 499       
+Heap Sort       : tempo: 0.000000	Numero confronti : 2216      	Numero scambi : 4488      
+Merge Sort      : tempo: 0.000000	Numero confronti : 7028      	Numero scambi : 4425      
+
+
+INSIEME CASUALE
+Selection Sort  : tempo: 0.001000	Numero confronti : 124750    	Numero scambi : 499       
+Insertion Sort  : tempo: 0.000000	Numero confronti : 62635     	Numero scambi : 62641     
+Quick Sort      : tempo: 0.000000	Numero confronti : 5565      	Numero scambi : 1123      
+Heap Sort       : tempo: 0.000000	Numero confronti : 3871      	Numero scambi : 4488      
+Merge Sort      : tempo: 0.001000	Numero confronti : 7460      	Numero scambi : 4808      
+
+
+
+NUMERO ELEMENTI: 1000
+INSIEME ORDINATO
+Selection Sort  : tempo: 0.001000	Numero confronti : 499500    	Numero scambi : 999       
+Insertion Sort  : tempo: 0.000000	Numero confronti : 999       	Numero scambi : 999       
+Quick Sort      : tempo: 0.001000	Numero confronti : 501498    	Numero scambi : 999       
+Heap Sort       : tempo: 0.000000	Numero confronti : 5044      	Numero scambi : 9976      
+Merge Sort      : tempo: 0.000000	Numero confronti : 17626     	Numero scambi : 11207     
+
+
+INSIEME QUASI_ORDINATO
+Selection Sort  : tempo: 0.000000	Numero confronti : 499500    	Numero scambi : 999       
+Insertion Sort  : tempo: 0.001000	Numero confronti : 286794    	Numero scambi : 286795    
+Quick Sort      : tempo: 0.000000	Numero confronti : 85695     	Numero scambi : 2102      
+Heap Sort       : tempo: 0.000000	Numero confronti : 6705      	Numero scambi : 9976      
+Merge Sort      : tempo: 0.000000	Numero confronti : 17058     	Numero scambi : 10450     
+
+
+INSIEME INV_ORDINATO
+Selection Sort  : tempo: 0.001000	Numero confronti : 499500    	Numero scambi : 999       
+Insertion Sort  : tempo: 0.002000	Numero confronti : 499500    	Numero scambi : 500499    
+Quick Sort      : tempo: 0.001000	Numero confronti : 501498    	Numero scambi : 999       
+Heap Sort       : tempo: 0.000000	Numero confronti : 4932      	Numero scambi : 9976      
+Merge Sort      : tempo: 0.000000	Numero confronti : 15982     	Numero scambi : 9815      
+
+
+INSIEME CASUALE
+Selection Sort  : tempo: 0.000000	Numero confronti : 499500    	Numero scambi : 999       
+Insertion Sort  : tempo: 0.000000	Numero confronti : 250100    	Numero scambi : 250105    
+Quick Sort      : tempo: 0.000000	Numero confronti : 14453     	Numero scambi : 2376      
+Heap Sort       : tempo: 0.001000	Numero confronti : 8742      	Numero scambi : 9976      
+Merge Sort      : tempo: 0.000000	Numero confronti : 16916     	Numero scambi : 10612     
+
+
+
+NUMERO ELEMENTI: 2000
+INSIEME ORDINATO
+Selection Sort  : tempo: 0.003000	Numero confronti : 1999000   	Numero scambi : 1999      
+Insertion Sort  : tempo: 0.000000	Numero confronti : 1999      	Numero scambi : 1999      
+Quick Sort      : tempo: 0.004000	Numero confronti : 2002998   	Numero scambi : 1999      
+Heap Sort       : tempo: 0.000000	Numero confronti : 11088     	Numero scambi : 21952     
+Merge Sort      : tempo: 0.001000	Numero confronti : 39190     	Numero scambi : 24299     
+
+
+INSIEME QUASI_ORDINATO
+Selection Sort  : tempo: 0.004000	Numero confronti : 1999000   	Numero scambi : 1999      
+Insertion Sort  : tempo: 0.002000	Numero confronti : 1198443   	Numero scambi : 1198444   
+Quick Sort      : tempo: 0.000000	Numero confronti : 314616    	Numero scambi : 4543      
+Heap Sort       : tempo: 0.000000	Numero confronti : 14845     	Numero scambi : 21952     
+Merge Sort      : tempo: 0.001000	Numero confronti : 38144     	Numero scambi : 22869     
+
+
+INSIEME INV_ORDINATO
+Selection Sort  : tempo: 0.004000	Numero confronti : 1999000   	Numero scambi : 1999      
+Insertion Sort  : tempo: 0.005000	Numero confronti : 1999000   	Numero scambi : 2000999   
+Quick Sort      : tempo: 0.004000	Numero confronti : 2002998   	Numero scambi : 1999      
+Heap Sort       : tempo: 0.000000	Numero confronti : 10864     	Numero scambi : 21952     
+Merge Sort      : tempo: 0.000000	Numero confronti : 35986     	Numero scambi : 21707     
+
+
+INSIEME CASUALE
+Selection Sort  : tempo: 0.003000	Numero confronti : 1999000   	Numero scambi : 1999      
+Insertion Sort  : tempo: 0.003000	Numero confronti : 999428    	Numero scambi : 999433    
+Quick Sort      : tempo: 0.000000	Numero confronti : 42544     	Numero scambi : 4808      
+Heap Sort       : tempo: 0.000000	Numero confronti : 19394     	Numero scambi : 21952     
+Merge Sort      : tempo: 0.000000	Numero confronti : 37816     	Numero scambi : 23221     
+
+
+
+NUMERO ELEMENTI: 5000
+INSIEME ORDINATO
+Selection Sort  : tempo: 0.022000	Numero confronti : 12497500  	Numero scambi : 4999      
+Insertion Sort  : tempo: 0.000000	Numero confronti : 4999      	Numero scambi : 4999      
+Quick Sort      : tempo: 0.023000	Numero confronti : 12507498  	Numero scambi : 4999      
+Heap Sort       : tempo: 0.001000	Numero confronti : 32004     	Numero scambi : 61808     
+Merge Sort      : tempo: 0.000000	Numero confronti : 112186    	Numero scambi : 68431     
+
+
+INSIEME QUASI_ORDINATO
+Selection Sort  : tempo: 0.020000	Numero confronti : 12497500  	Numero scambi : 4999      
+Insertion Sort  : tempo: 0.018000	Numero confronti : 7672783   	Numero scambi : 7672784   
+Quick Sort      : tempo: 0.001000	Numero confronti : 714082    	Numero scambi : 13264     
+Heap Sort       : tempo: 0.001000	Numero confronti : 42429     	Numero scambi : 61808     
+Merge Sort      : tempo: 0.000000	Numero confronti : 109020    	Numero scambi : 63910     
+
+
+INSIEME INV_ORDINATO
+Selection Sort  : tempo: 0.021000	Numero confronti : 12497500  	Numero scambi : 4999      
+Insertion Sort  : tempo: 0.029000	Numero confronti : 12497500  	Numero scambi : 12502499  
+Quick Sort      : tempo: 0.023000	Numero confronti : 12507498  	Numero scambi : 4999      
+Heap Sort       : tempo: 0.000000	Numero confronti : 29804     	Numero scambi : 61808     
+Merge Sort      : tempo: 0.000000	Numero confronti : 103264    	Numero scambi : 60935     
+
+
+INSIEME CASUALE
+Selection Sort  : tempo: 0.020000	Numero confronti : 12497500  	Numero scambi : 4999      
+Insertion Sort  : tempo: 0.015000	Numero confronti : 6129975   	Numero scambi : 6129979   
+Quick Sort      : tempo: 0.000000	Numero confronti : 176477    	Numero scambi : 12491     
+Heap Sort       : tempo: 0.001000	Numero confronti : 55173     	Numero scambi : 61808     
+Merge Sort      : tempo: 0.000000	Numero confronti : 107870    	Numero scambi : 64753     
+
+
+
+NUMERO ELEMENTI: 10000
+INSIEME ORDINATO
+Selection Sort  : tempo: 0.085000	Numero confronti : 49995000  	Numero scambi : 9999      
+Insertion Sort  : tempo: 0.000000	Numero confronti : 9999      	Numero scambi : 9999      
+Quick Sort      : tempo: 0.091000	Numero confronti : 50014998  	Numero scambi : 9999      
+Heap Sort       : tempo: 0.000000	Numero confronti : 69008     	Numero scambi : 133616    
+Merge Sort      : tempo: 0.001000	Numero confronti : 244576    	Numero scambi : 146955    
+
+
+INSIEME QUASI_ORDINATO
+Selection Sort  : tempo: 0.080000	Numero confronti : 49995000  	Numero scambi : 9999      
+Insertion Sort  : tempo: 0.073000	Numero confronti : 30804164  	Numero scambi : 30804165  
+Quick Sort      : tempo: 0.024000	Numero confronti : 12171478  	Numero scambi : 22527     
+Heap Sort       : tempo: 0.000000	Numero confronti : 92222     	Numero scambi : 133616    
+Merge Sort      : tempo: 0.000000	Numero confronti : 237998    	Numero scambi : 137726    
+
+
+INSIEME INV_ORDINATO
+Selection Sort  : tempo: 0.085000	Numero confronti : 49995000  	Numero scambi : 9999      
+Insertion Sort  : tempo: 0.121000	Numero confronti : 49995000  	Numero scambi : 50004999  
+Quick Sort      : tempo: 0.094000	Numero confronti : 50014998  	Numero scambi : 9999      
+Heap Sort       : tempo: 0.001000	Numero confronti : 64608     	Numero scambi : 133616    
+Merge Sort      : tempo: 0.001000	Numero confronti : 226720    	Numero scambi : 131695    
+
+
+INSIEME CASUALE
+Selection Sort  : tempo: 0.079000	Numero confronti : 49995000  	Numero scambi : 9999      
+Insertion Sort  : tempo: 0.058000	Numero confronti : 24819996  	Numero scambi : 24820000  
+Quick Sort      : tempo: 0.001000	Numero confronti : 597158    	Numero scambi : 25457     
+Heap Sort       : tempo: 0.001000	Numero confronti : 120189    	Numero scambi : 133616    
+Merge Sort      : tempo: 0.001000	Numero confronti : 235672    	Numero scambi : 139524    
+
+
+
+NUMERO ELEMENTI: 20000
+INSIEME ORDINATO
+Selection Sort  : tempo: 0.357000	Numero confronti : 199990000 	Numero scambi : 19999     
+Insertion Sort  : tempo: 0.000000	Numero confronti : 19999     	Numero scambi : 19999     
+Quick Sort      : tempo: 0.365000	Numero confronti : 200029998 	Numero scambi : 19999     
+Heap Sort       : tempo: 0.001000	Numero confronti : 148016    	Numero scambi : 287232    
+Merge Sort      : tempo: 0.002000	Numero confronti : 529096    	Numero scambi : 312877    
+
+
+INSIEME QUASI_ORDINATO
+Selection Sort  : tempo: 0.325000	Numero confronti : 199990000 	Numero scambi : 19999     
+Insertion Sort  : tempo: 0.291000	Numero confronti : 124210750 	Numero scambi : 124210751 
+Quick Sort      : tempo: 0.090000	Numero confronti : 48561442  	Numero scambi : 45314     
+Heap Sort       : tempo: 0.001000	Numero confronti : 199446    	Numero scambi : 287232    
+Merge Sort      : tempo: 0.002000	Numero confronti : 516094    	Numero scambi : 295540    
+
+
+INSIEME INV_ORDINATO
+Selection Sort  : tempo: 0.360000	Numero confronti : 199990000 	Numero scambi : 19999     
+Insertion Sort  : tempo: 0.471000	Numero confronti : 199990000 	Numero scambi : 200009999 
+Quick Sort      : tempo: 0.366000	Numero confronti : 200029998 	Numero scambi : 19999     
+Heap Sort       : tempo: 0.001000	Numero confronti : 139216    	Numero scambi : 287232    
+Merge Sort      : tempo: 0.001000	Numero confronti : 493382    	Numero scambi : 284333    
+
+
+INSIEME CASUALE
+Selection Sort  : tempo: 0.319000	Numero confronti : 199990000 	Numero scambi : 19999     
+Insertion Sort  : tempo: 0.233000	Numero confronti : 99198992  	Numero scambi : 99198995  
+Quick Sort      : tempo: 0.005000	Numero confronti : 2192656   	Numero scambi : 51361     
+Heap Sort       : tempo: 0.002000	Numero confronti : 260289    	Numero scambi : 287232    
+Merge Sort      : tempo: 0.002000	Numero confronti : 511212    	Numero scambi : 298968    
+
+
+
+NUMERO ELEMENTI: 50000
+INSIEME ORDINATO
+Selection Sort  : tempo: 2.215000	Numero confronti : 1249975000	Numero scambi : 49999     
+Insertion Sort  : tempo: 0.000000	Numero confronti : 49999     	Numero scambi : 49999     
+Quick Sort      : tempo: 2.285000	Numero confronti : 1250074998	Numero scambi : 49999     
+Heap Sort       : tempo: 0.002000	Numero confronti : 401952    	Numero scambi : 784464    
+Merge Sort      : tempo: 0.004000	Numero confronti : 1455476   	Numero scambi : 848303    
+
+
+INSIEME QUASI_ORDINATO
+Selection Sort  : tempo: 2.061000	Numero confronti : 1249975000	Numero scambi : 49999     
+Insertion Sort  : tempo: 1.831000	Numero confronti : 778877675 	Numero scambi : 778877676 
+Quick Sort      : tempo: 0.558000	Numero confronti : 303770219 	Numero scambi : 113975    
+Heap Sort       : tempo: 0.003000	Numero confronti : 546834    	Numero scambi : 784464    
+Merge Sort      : tempo: 0.005000	Numero confronti : 1422398   	Numero scambi : 804634    
+
+
+INSIEME INV_ORDINATO
+Selection Sort  : tempo: 2.245000	Numero confronti : 1249975000	Numero scambi : 49999     
+Insertion Sort  : tempo: 2.936000	Numero confronti : 1249975000	Numero scambi : 1250024999
+Quick Sort      : tempo: 2.282000	Numero confronti : 1250074998	Numero scambi : 49999     
+Heap Sort       : tempo: 0.002000	Numero confronti : 382512    	Numero scambi : 784464    
+Merge Sort      : tempo: 0.005000	Numero confronti : 1366152   	Numero scambi : 773891    
+
+
+INSIEME CASUALE
+Selection Sort  : tempo: 2.050000	Numero confronti : 1249975000	Numero scambi : 49999     
+Insertion Sort  : tempo: 1.451000	Numero confronti : 617800014 	Numero scambi : 617800017 
+Quick Sort      : tempo: 0.025000	Numero confronti : 12881263  	Numero scambi : 129016    
+Heap Sort       : tempo: 0.005000	Numero confronti : 716408    	Numero scambi : 784464    
+Merge Sort      : tempo: 0.006000	Numero confronti : 1411058   	Numero scambi : 814081    
+
+
+
+NUMERO ELEMENTI: 500
+INSIEME ORDINATO
+Selection Sort  : tempo: 0.000000	Numero confronti : 124750    	Numero scambi : 499       
+Insertion Sort  : tempo: 0.000000	Numero confronti : 499       	Numero scambi : 499       
+Quick Sort      : tempo: 0.000000	Numero confronti : 125748    	Numero scambi : 499       
+Heap Sort       : tempo: 0.000000	Numero confronti : 2272      	Numero scambi : 4488      
+Merge Sort      : tempo: 0.000000	Numero confronti : 7792      	Numero scambi : 5103      
+
+
+INSIEME QUASI_ORDINATO
+Selection Sort  : tempo: 0.000000	Numero confronti : 124750    	Numero scambi : 499       
+Insertion Sort  : tempo: 0.000000	Numero confronti : 64598     	Numero scambi : 64599     
+Quick Sort      : tempo: 0.000000	Numero confronti : 7515      	Numero scambi : 1046      
+Heap Sort       : tempo: 0.000000	Numero confronti : 3031      	Numero scambi : 4488      
+Merge Sort      : tempo: 0.000000	Numero confronti : 7502      	Numero scambi : 4764      
+
+
+INSIEME INV_ORDINATO
+Selection Sort  : tempo: 0.001000	Numero confronti : 124750    	Numero scambi : 499       
+Insertion Sort  : tempo: 0.000000	Numero confronti : 124750    	Numero scambi : 125249    
+Quick Sort      : tempo: 0.000000	Numero confronti : 125748    	Numero scambi : 499       
+Heap Sort       : tempo: 0.000000	Numero confronti : 2216      	Numero scambi : 4488      
+Merge Sort      : tempo: 0.000000	Numero confronti : 7028      	Numero scambi : 4425      
+
+
+INSIEME CASUALE
+Selection Sort  : tempo: 0.001000	Numero confronti : 124750    	Numero scambi : 499       
+Insertion Sort  : tempo: 0.000000	Numero confronti : 58606     	Numero scambi : 58612     
+Quick Sort      : tempo: 0.000000	Numero confronti : 5799      	Numero scambi : 1121      
+Heap Sort       : tempo: 0.000000	Numero confronti : 3864      	Numero scambi : 4488      
+Merge Sort      : tempo: 0.000000	Numero confronti : 7470      	Numero scambi : 4794      
+
+
+
+NUMERO ELEMENTI: 1000
+INSIEME ORDINATO
+Selection Sort  : tempo: 0.001000	Numero confronti : 499500    	Numero scambi : 999       
+Insertion Sort  : tempo: 0.000000	Numero confronti : 999       	Numero scambi : 999       
+Quick Sort      : tempo: 0.001000	Numero confronti : 501498    	Numero scambi : 999       
+Heap Sort       : tempo: 0.000000	Numero confronti : 5044      	Numero scambi : 9976      
+Merge Sort      : tempo: 0.001000	Numero confronti : 17626     	Numero scambi : 11207     
+
+
+INSIEME QUASI_ORDINATO
+Selection Sort  : tempo: 0.001000	Numero confronti : 499500    	Numero scambi : 999       
+Insertion Sort  : tempo: 0.001000	Numero confronti : 289660    	Numero scambi : 289661    
+Quick Sort      : tempo: 0.000000	Numero confronti : 83803     	Numero scambi : 2098      
+Heap Sort       : tempo: 0.000000	Numero confronti : 6747      	Numero scambi : 9976      
+Merge Sort      : tempo: 0.000000	Numero confronti : 17092     	Numero scambi : 10500     
+
+
+INSIEME INV_ORDINATO
+Selection Sort  : tempo: 0.001000	Numero confronti : 499500    	Numero scambi : 999       
+Insertion Sort  : tempo: 0.001000	Numero confronti : 499500    	Numero scambi : 500499    
+Quick Sort      : tempo: 0.001000	Numero confronti : 501498    	Numero scambi : 999       
+Heap Sort       : tempo: 0.001000	Numero confronti : 4932      	Numero scambi : 9976      
+Merge Sort      : tempo: 0.000000	Numero confronti : 15982     	Numero scambi : 9815      
+
+
+INSIEME CASUALE
+Selection Sort  : tempo: 0.001000	Numero confronti : 499500    	Numero scambi : 999       
+Insertion Sort  : tempo: 0.001000	Numero confronti : 260311    	Numero scambi : 260315    
+Quick Sort      : tempo: 0.000000	Numero confronti : 14796     	Numero scambi : 2372      
+Heap Sort       : tempo: 0.000000	Numero confronti : 8719      	Numero scambi : 9976      
+Merge Sort      : tempo: 0.001000	Numero confronti : 16894     	Numero scambi : 10604     
+
+
+
+NUMERO ELEMENTI: 2000
+INSIEME ORDINATO
+Selection Sort  : tempo: 0.004000	Numero confronti : 1999000   	Numero scambi : 1999      
+Insertion Sort  : tempo: 0.000000	Numero confronti : 1999      	Numero scambi : 1999      
+Quick Sort      : tempo: 0.004000	Numero confronti : 2002998   	Numero scambi : 1999      
+Heap Sort       : tempo: 0.000000	Numero confronti : 11088     	Numero scambi : 21952     
+Merge Sort      : tempo: 0.000000	Numero confronti : 39190     	Numero scambi : 24299     
+
+
+INSIEME QUASI_ORDINATO
+Selection Sort  : tempo: 0.003000	Numero confronti : 1999000   	Numero scambi : 1999      
+Insertion Sort  : tempo: 0.003000	Numero confronti : 1192949   	Numero scambi : 1192950   
+Quick Sort      : tempo: 0.001000	Numero confronti : 332554    	Numero scambi : 4488      
+Heap Sort       : tempo: 0.000000	Numero confronti : 14828     	Numero scambi : 21952     
+Merge Sort      : tempo: 0.000000	Numero confronti : 38154     	Numero scambi : 22903     
+
+
+INSIEME INV_ORDINATO
+Selection Sort  : tempo: 0.004000	Numero confronti : 1999000   	Numero scambi : 1999      
+Insertion Sort  : tempo: 0.005000	Numero confronti : 1999000   	Numero scambi : 2000999   
+Quick Sort      : tempo: 0.004000	Numero confronti : 2002998   	Numero scambi : 1999      
+Heap Sort       : tempo: 0.000000	Numero confronti : 10864     	Numero scambi : 21952     
+Merge Sort      : tempo: 0.000000	Numero confronti : 35986     	Numero scambi : 21707     
+
+
+INSIEME CASUALE
+Selection Sort  : tempo: 0.003000	Numero confronti : 1999000   	Numero scambi : 1999      
+Insertion Sort  : tempo: 0.002000	Numero confronti : 976396    	Numero scambi : 976397    
+Quick Sort      : tempo: 0.001000	Numero confronti : 40650     	Numero scambi : 4868      
+Heap Sort       : tempo: 0.000000	Numero confronti : 19411     	Numero scambi : 21952     
+Merge Sort      : tempo: 0.000000	Numero confronti : 37770     	Numero scambi : 23271     
+
+
+
+NUMERO ELEMENTI: 5000
+INSIEME ORDINATO
+Selection Sort  : tempo: 0.024000	Numero confronti : 12497500  	Numero scambi : 4999      
+Insertion Sort  : tempo: 0.000000	Numero confronti : 4999      	Numero scambi : 4999      
+Quick Sort      : tempo: 0.023000	Numero confronti : 12507498  	Numero scambi : 4999      
+Heap Sort       : tempo: 0.000000	Numero confronti : 32004     	Numero scambi : 61808     
+Merge Sort      : tempo: 0.001000	Numero confronti : 112186    	Numero scambi : 68431     
+
+
+INSIEME QUASI_ORDINATO
+Selection Sort  : tempo: 0.021000	Numero confronti : 12497500  	Numero scambi : 4999      
+Insertion Sort  : tempo: 0.018000	Numero confronti : 7637978   	Numero scambi : 7637979   
+Quick Sort      : tempo: 0.002000	Numero confronti : 1006057   	Numero scambi : 12619     
+Heap Sort       : tempo: 0.000000	Numero confronti : 42422     	Numero scambi : 61808     
+Merge Sort      : tempo: 0.001000	Numero confronti : 109070    	Numero scambi : 63947     
+
+
+INSIEME INV_ORDINATO
+Selection Sort  : tempo: 0.022000	Numero confronti : 12497500  	Numero scambi : 4999      
+Insertion Sort  : tempo: 0.029000	Numero confronti : 12497500  	Numero scambi : 12502499  
+Quick Sort      : tempo: 0.023000	Numero confronti : 12507498  	Numero scambi : 4999      
+Heap Sort       : tempo: 0.000000	Numero confronti : 29804     	Numero scambi : 61808     
+Merge Sort      : tempo: 0.001000	Numero confronti : 103264    	Numero scambi : 60935     
+
+
+INSIEME CASUALE
+Selection Sort  : tempo: 0.020000	Numero confronti : 12497500  	Numero scambi : 4999      
+Insertion Sort  : tempo: 0.015000	Numero confronti : 6111015   	Numero scambi : 6111020   
+Quick Sort      : tempo: 0.000000	Numero confronti : 177530    	Numero scambi : 12659     
+Heap Sort       : tempo: 0.001000	Numero confronti : 55156     	Numero scambi : 61808     
+Merge Sort      : tempo: 0.000000	Numero confronti : 107814    	Numero scambi : 64727     
+
+
+
+NUMERO ELEMENTI: 10000
+INSIEME ORDINATO
+Selection Sort  : tempo: 0.089000	Numero confronti : 49995000  	Numero scambi : 9999      
+Insertion Sort  : tempo: 0.000000	Numero confronti : 9999      	Numero scambi : 9999      
+Quick Sort      : tempo: 0.092000	Numero confronti : 50014998  	Numero scambi : 9999      
+Heap Sort       : tempo: 0.000000	Numero confronti : 69008     	Numero scambi : 133616    
+Merge Sort      : tempo: 0.001000	Numero confronti : 244576    	Numero scambi : 146955    
+
+
+INSIEME QUASI_ORDINATO
+Selection Sort  : tempo: 0.079000	Numero confronti : 49995000  	Numero scambi : 9999      
+Insertion Sort  : tempo: 0.073000	Numero confronti : 31011523  	Numero scambi : 31011524  
+Quick Sort      : tempo: 0.001000	Numero confronti : 377738    	Numero scambi : 28773     
+Heap Sort       : tempo: 0.000000	Numero confronti : 92216     	Numero scambi : 133616    
+Merge Sort      : tempo: 0.000000	Numero confronti : 237994    	Numero scambi : 137706    
+
+
+INSIEME INV_ORDINATO
+Selection Sort  : tempo: 0.090000	Numero confronti : 49995000  	Numero scambi : 9999      
+Insertion Sort  : tempo: 0.118000	Numero confronti : 49995000  	Numero scambi : 50004999  
+Quick Sort      : tempo: 0.091000	Numero confronti : 50014998  	Numero scambi : 9999      
+Heap Sort       : tempo: 0.001000	Numero confronti : 64608     	Numero scambi : 133616    
+Merge Sort      : tempo: 0.001000	Numero confronti : 226720    	Numero scambi : 131695    
+
+
+INSIEME CASUALE
+Selection Sort  : tempo: 0.079000	Numero confronti : 49995000  	Numero scambi : 9999      
+Insertion Sort  : tempo: 0.058000	Numero confronti : 24744871  	Numero scambi : 24744877  
+Quick Sort      : tempo: 0.002000	Numero confronti : 594118    	Numero scambi : 25706     
+Heap Sort       : tempo: 0.001000	Numero confronti : 120307    	Numero scambi : 133616    
+Merge Sort      : tempo: 0.001000	Numero confronti : 235586    	Numero scambi : 139462    
+
+
+
+NUMERO ELEMENTI: 20000
+INSIEME ORDINATO
+Selection Sort  : tempo: 0.353000	Numero confronti : 199990000 	Numero scambi : 19999     
+Insertion Sort  : tempo: 0.000000	Numero confronti : 19999     	Numero scambi : 19999     
+Quick Sort      : tempo: 0.367000	Numero confronti : 200029998 	Numero scambi : 19999     
+Heap Sort       : tempo: 0.001000	Numero confronti : 148016    	Numero scambi : 287232    
+Merge Sort      : tempo: 0.002000	Numero confronti : 529096    	Numero scambi : 312877    
+
+
+INSIEME QUASI_ORDINATO
+Selection Sort  : tempo: 0.323000	Numero confronti : 199990000 	Numero scambi : 19999     
+Insertion Sort  : tempo: 0.295000	Numero confronti : 124200163 	Numero scambi : 124200164 
+Quick Sort      : tempo: 0.089000	Numero confronti : 48723742  	Numero scambi : 44839     
+Heap Sort       : tempo: 0.001000	Numero confronti : 199383    	Numero scambi : 287232    
+Merge Sort      : tempo: 0.002000	Numero confronti : 516080    	Numero scambi : 295483    
+
+
+INSIEME INV_ORDINATO
+Selection Sort  : tempo: 0.352000	Numero confronti : 199990000 	Numero scambi : 19999     
+Insertion Sort  : tempo: 0.471000	Numero confronti : 199990000 	Numero scambi : 200009999 
+Quick Sort      : tempo: 0.374000	Numero confronti : 200029998 	Numero scambi : 19999     
+Heap Sort       : tempo: 0.001000	Numero confronti : 139216    	Numero scambi : 287232    
+Merge Sort      : tempo: 0.001000	Numero confronti : 493382    	Numero scambi : 284333    
+
+
+INSIEME CASUALE
+Selection Sort  : tempo: 0.317000	Numero confronti : 199990000 	Numero scambi : 19999     
+Insertion Sort  : tempo: 0.235000	Numero confronti : 99216409  	Numero scambi : 99216413  
+Quick Sort      : tempo: 0.005000	Numero confronti : 2202902   	Numero scambi : 50945     
+Heap Sort       : tempo: 0.002000	Numero confronti : 260407    	Numero scambi : 287232    
+Merge Sort      : tempo: 0.002000	Numero confronti : 511092    	Numero scambi : 298840    
+
+
+
+NUMERO ELEMENTI: 50000
+INSIEME ORDINATO
+Selection Sort  : tempo: 2.234000	Numero confronti : 1249975000	Numero scambi : 49999     
+Insertion Sort  : tempo: 0.000000	Numero confronti : 49999     	Numero scambi : 49999     
+Quick Sort      : tempo: 2.286000	Numero confronti : 1250074998	Numero scambi : 49999     
+Heap Sort       : tempo: 0.003000	Numero confronti : 401952    	Numero scambi : 784464    
+Merge Sort      : tempo: 0.004000	Numero confronti : 1455476   	Numero scambi : 848303    
+
+
+INSIEME QUASI_ORDINATO
+Selection Sort  : tempo: 2.058000	Numero confronti : 1249975000	Numero scambi : 49999     
+Insertion Sort  : tempo: 1.830000	Numero confronti : 777383966 	Numero scambi : 777383967 
+Quick Sort      : tempo: 0.553000	Numero confronti : 302495944 	Numero scambi : 114136    
+Heap Sort       : tempo: 0.003000	Numero confronti : 546996    	Numero scambi : 784464    
+Merge Sort      : tempo: 0.005000	Numero confronti : 1422350   	Numero scambi : 804624    
+
+
+INSIEME INV_ORDINATO
+Selection Sort  : tempo: 2.219000	Numero confronti : 1249975000	Numero scambi : 49999     
+Insertion Sort  : tempo: 2.946000	Numero confronti : 1249975000	Numero scambi : 1250024999
+Quick Sort      : tempo: 2.287000	Numero confronti : 1250074998	Numero scambi : 49999     
+Heap Sort       : tempo: 0.002000	Numero confronti : 382512    	Numero scambi : 784464    
+Merge Sort      : tempo: 0.005000	Numero confronti : 1366152   	Numero scambi : 773891    
+
+
+INSIEME CASUALE
+Selection Sort  : tempo: 2.057000	Numero confronti : 1249975000	Numero scambi : 49999     
+Insertion Sort  : tempo: 1.466000	Numero confronti : 621814830 	Numero scambi : 621814839 
+Quick Sort      : tempo: 0.026000	Numero confronti : 12994895  	Numero scambi : 125693    
+Heap Sort       : tempo: 0.005000	Numero confronti : 716589    	Numero scambi : 784464    
+Merge Sort      : tempo: 0.006000	Numero confronti : 1410808   	Numero scambi : 813962    
+
+
+
+NUMERO ELEMENTI: 500
+INSIEME ORDINATO
+Selection Sort  : tempo: 0.000000	Numero confronti : 124750    	Numero scambi : 499       
+Insertion Sort  : tempo: 0.000000	Numero confronti : 499       	Numero scambi : 499       
+Quick Sort      : tempo: 0.000000	Numero confronti : 125748    	Numero scambi : 499       
+Heap Sort       : tempo: 0.001000	Numero confronti : 2272      	Numero scambi : 4488      
+Merge Sort      : tempo: 0.000000	Numero confronti : 7792      	Numero scambi : 5103      
+
+
+INSIEME QUASI_ORDINATO
+Selection Sort  : tempo: 0.001000	Numero confronti : 124750    	Numero scambi : 499       
+Insertion Sort  : tempo: 0.000000	Numero confronti : 66537     	Numero scambi : 66538     
+Quick Sort      : tempo: 0.000000	Numero confronti : 6973      	Numero scambi : 1085      
+Heap Sort       : tempo: 0.000000	Numero confronti : 3036      	Numero scambi : 4488      
+Merge Sort      : tempo: 0.000000	Numero confronti : 7492      	Numero scambi : 4730      
+
+
+INSIEME INV_ORDINATO
+Selection Sort  : tempo: 0.000000	Numero confronti : 124750    	Numero scambi : 499       
+Insertion Sort  : tempo: 0.000000	Numero confronti : 124750    	Numero scambi : 125249    
+Quick Sort      : tempo: 0.001000	Numero confronti : 125748    	Numero scambi : 499       
+Heap Sort       : tempo: 0.000000	Numero confronti : 2216      	Numero scambi : 4488      
+Merge Sort      : tempo: 0.000000	Numero confronti : 7028      	Numero scambi : 4425      
+
+
+INSIEME CASUALE
+Selection Sort  : tempo: 0.000000	Numero confronti : 124750    	Numero scambi : 499       
+Insertion Sort  : tempo: 0.000000	Numero confronti : 63609     	Numero scambi : 63613     
+Quick Sort      : tempo: 0.000000	Numero confronti : 6018      	Numero scambi : 1113      
+Heap Sort       : tempo: 0.000000	Numero confronti : 3855      	Numero scambi : 4488      
+Merge Sort      : tempo: 0.000000	Numero confronti : 7414      	Numero scambi : 4771      
+
+
+
+NUMERO ELEMENTI: 1000
+INSIEME ORDINATO
+Selection Sort  : tempo: 0.001000	Numero confronti : 499500    	Numero scambi : 999       
+Insertion Sort  : tempo: 0.000000	Numero confronti : 999       	Numero scambi : 999       
+Quick Sort      : tempo: 0.001000	Numero confronti : 501498    	Numero scambi : 999       
+Heap Sort       : tempo: 0.000000	Numero confronti : 5044      	Numero scambi : 9976      
+Merge Sort      : tempo: 0.000000	Numero confronti : 17626     	Numero scambi : 11207     
+
+
+INSIEME QUASI_ORDINATO
+Selection Sort  : tempo: 0.001000	Numero confronti : 499500    	Numero scambi : 999       
+Insertion Sort  : tempo: 0.000000	Numero confronti : 289339    	Numero scambi : 289340    
+Quick Sort      : tempo: 0.000000	Numero confronti : 31346     	Numero scambi : 2307      
+Heap Sort       : tempo: 0.000000	Numero confronti : 6736      	Numero scambi : 9976      
+Merge Sort      : tempo: 0.000000	Numero confronti : 17054     	Numero scambi : 10458     
+
+
+INSIEME INV_ORDINATO
+Selection Sort  : tempo: 0.000000	Numero confronti : 499500    	Numero scambi : 999       
+Insertion Sort  : tempo: 0.002000	Numero confronti : 499500    	Numero scambi : 500499    
+Quick Sort      : tempo: 0.001000	Numero confronti : 501498    	Numero scambi : 999       
+Heap Sort       : tempo: 0.000000	Numero confronti : 4932      	Numero scambi : 9976      
+Merge Sort      : tempo: 0.000000	Numero confronti : 15982     	Numero scambi : 9815      
+
+
+INSIEME CASUALE
+Selection Sort  : tempo: 0.000000	Numero confronti : 499500    	Numero scambi : 999       
+Insertion Sort  : tempo: 0.000000	Numero confronti : 256203    	Numero scambi : 256211    
+Quick Sort      : tempo: 0.000000	Numero confronti : 13959     	Numero scambi : 2378      
+Heap Sort       : tempo: 0.001000	Numero confronti : 8680      	Numero scambi : 9976      
+Merge Sort      : tempo: 0.000000	Numero confronti : 16886     	Numero scambi : 10612     
+
+
+
+NUMERO ELEMENTI: 2000
+INSIEME ORDINATO
+Selection Sort  : tempo: 0.003000	Numero confronti : 1999000   	Numero scambi : 1999      
+Insertion Sort  : tempo: 0.000000	Numero confronti : 1999      	Numero scambi : 1999      
+Quick Sort      : tempo: 0.004000	Numero confronti : 2002998   	Numero scambi : 1999      
+Heap Sort       : tempo: 0.000000	Numero confronti : 11088     	Numero scambi : 21952     
+Merge Sort      : tempo: 0.001000	Numero confronti : 39190     	Numero scambi : 24299     
+
+
+INSIEME QUASI_ORDINATO
+Selection Sort  : tempo: 0.004000	Numero confronti : 1999000   	Numero scambi : 1999      
+Insertion Sort  : tempo: 0.002000	Numero confronti : 1205523   	Numero scambi : 1205524   
+Quick Sort      : tempo: 0.000000	Numero confronti : 252303    	Numero scambi : 4674      
+Heap Sort       : tempo: 0.000000	Numero confronti : 14860     	Numero scambi : 21952     
+Merge Sort      : tempo: 0.000000	Numero confronti : 38168     	Numero scambi : 22879     
+
+
+INSIEME INV_ORDINATO
+Selection Sort  : tempo: 0.004000	Numero confronti : 1999000   	Numero scambi : 1999      
+Insertion Sort  : tempo: 0.004000	Numero confronti : 1999000   	Numero scambi : 2000999   
+Quick Sort      : tempo: 0.004000	Numero confronti : 2002998   	Numero scambi : 1999      
+Heap Sort       : tempo: 0.000000	Numero confronti : 10864     	Numero scambi : 21952     
+Merge Sort      : tempo: 0.001000	Numero confronti : 35986     	Numero scambi : 21707     
+
+
+INSIEME CASUALE
+Selection Sort  : tempo: 0.003000	Numero confronti : 1999000   	Numero scambi : 1999      
+Insertion Sort  : tempo: 0.003000	Numero confronti : 992756    	Numero scambi : 992761    
+Quick Sort      : tempo: 0.000000	Numero confronti : 38236     	Numero scambi : 4968      
+Heap Sort       : tempo: 0.001000	Numero confronti : 19395     	Numero scambi : 21952     
+Merge Sort      : tempo: 0.000000	Numero confronti : 37834     	Numero scambi : 23251     
+
+
+
+NUMERO ELEMENTI: 5000
+INSIEME ORDINATO
+Selection Sort  : tempo: 0.022000	Numero confronti : 12497500  	Numero scambi : 4999      
+Insertion Sort  : tempo: 0.000000	Numero confronti : 4999      	Numero scambi : 4999      
+Quick Sort      : tempo: 0.023000	Numero confronti : 12507498  	Numero scambi : 4999      
+Heap Sort       : tempo: 0.001000	Numero confronti : 32004     	Numero scambi : 61808     
+Merge Sort      : tempo: 0.000000	Numero confronti : 112186    	Numero scambi : 68431     
+
+
+INSIEME QUASI_ORDINATO
+Selection Sort  : tempo: 0.020000	Numero confronti : 12497500  	Numero scambi : 4999      
+Insertion Sort  : tempo: 0.018000	Numero confronti : 7701858   	Numero scambi : 7701859   
+Quick Sort      : tempo: 0.002000	Numero confronti : 752531    	Numero scambi : 12988     
+Heap Sort       : tempo: 0.000000	Numero confronti : 42410     	Numero scambi : 61808     
+Merge Sort      : tempo: 0.000000	Numero confronti : 109022    	Numero scambi : 63902     
+
+
+INSIEME INV_ORDINATO
+Selection Sort  : tempo: 0.023000	Numero confronti : 12497500  	Numero scambi : 4999      
+Insertion Sort  : tempo: 0.029000	Numero confronti : 12497500  	Numero scambi : 12502499  
+Quick Sort      : tempo: 0.023000	Numero confronti : 12507498  	Numero scambi : 4999      
+Heap Sort       : tempo: 0.000000	Numero confronti : 29804     	Numero scambi : 61808     
+Merge Sort      : tempo: 0.000000	Numero confronti : 103264    	Numero scambi : 60935     
+
+
+INSIEME CASUALE
+Selection Sort  : tempo: 0.020000	Numero confronti : 12497500  	Numero scambi : 4999      
+Insertion Sort  : tempo: 0.015000	Numero confronti : 6259537   	Numero scambi : 6259539   
+Quick Sort      : tempo: 0.001000	Numero confronti : 178638    	Numero scambi : 12363     
+Heap Sort       : tempo: 0.000000	Numero confronti : 55144     	Numero scambi : 61808     
+Merge Sort      : tempo: 0.001000	Numero confronti : 107786    	Numero scambi : 64675     
+
+
+
+NUMERO ELEMENTI: 10000
+INSIEME ORDINATO
+Selection Sort  : tempo: 0.091000	Numero confronti : 49995000  	Numero scambi : 9999      
+Insertion Sort  : tempo: 0.000000	Numero confronti : 9999      	Numero scambi : 9999      
+Quick Sort      : tempo: 0.091000	Numero confronti : 50014998  	Numero scambi : 9999      
+Heap Sort       : tempo: 0.000000	Numero confronti : 69008     	Numero scambi : 133616    
+Merge Sort      : tempo: 0.001000	Numero confronti : 244576    	Numero scambi : 146955    
+
+
+INSIEME QUASI_ORDINATO
+Selection Sort  : tempo: 0.082000	Numero confronti : 49995000  	Numero scambi : 9999      
+Insertion Sort  : tempo: 0.073000	Numero confronti : 30986169  	Numero scambi : 30986170  
+Quick Sort      : tempo: 0.001000	Numero confronti : 686441    	Numero scambi : 26669     
+Heap Sort       : tempo: 0.000000	Numero confronti : 92133     	Numero scambi : 133616    
+Merge Sort      : tempo: 0.001000	Numero confronti : 238082    	Numero scambi : 137880    
+
+
+INSIEME INV_ORDINATO
+Selection Sort  : tempo: 0.082000	Numero confronti : 49995000  	Numero scambi : 9999      
+Insertion Sort  : tempo: 0.119000	Numero confronti : 49995000  	Numero scambi : 50004999  
+Quick Sort      : tempo: 0.092000	Numero confronti : 50014998  	Numero scambi : 9999      
+Heap Sort       : tempo: 0.001000	Numero confronti : 64608     	Numero scambi : 133616    
+Merge Sort      : tempo: 0.001000	Numero confronti : 226720    	Numero scambi : 131695    
+
+
+INSIEME CASUALE
+Selection Sort  : tempo: 0.079000	Numero confronti : 49995000  	Numero scambi : 9999      
+Insertion Sort  : tempo: 0.059000	Numero confronti : 24788130  	Numero scambi : 24788130  
+Quick Sort      : tempo: 0.001000	Numero confronti : 597039    	Numero scambi : 25590     
+Heap Sort       : tempo: 0.000000	Numero confronti : 120226    	Numero scambi : 133616    
+Merge Sort      : tempo: 0.001000	Numero confronti : 235508    	Numero scambi : 139402    
+
+
+
+NUMERO ELEMENTI: 20000
+INSIEME ORDINATO
+Selection Sort  : tempo: 0.366000	Numero confronti : 199990000 	Numero scambi : 19999     
+Insertion Sort  : tempo: 0.000000	Numero confronti : 19999     	Numero scambi : 19999     
+Quick Sort      : tempo: 0.365000	Numero confronti : 200029998 	Numero scambi : 19999     
+Heap Sort       : tempo: 0.001000	Numero confronti : 148016    	Numero scambi : 287232    
+Merge Sort      : tempo: 0.002000	Numero confronti : 529096    	Numero scambi : 312877    
+
+
+INSIEME QUASI_ORDINATO
+Selection Sort  : tempo: 0.318000	Numero confronti : 199990000 	Numero scambi : 19999     
+Insertion Sort  : tempo: 0.295000	Numero confronti : 124369864 	Numero scambi : 124369865 
+Quick Sort      : tempo: 0.090000	Numero confronti : 48755383  	Numero scambi : 45301     
+Heap Sort       : tempo: 0.001000	Numero confronti : 199294    	Numero scambi : 287232    
+Merge Sort      : tempo: 0.002000	Numero confronti : 515928    	Numero scambi : 295428    
+
+
+INSIEME INV_ORDINATO
+Selection Sort  : tempo: 0.356000	Numero confronti : 199990000 	Numero scambi : 19999     
+Insertion Sort  : tempo: 0.469000	Numero confronti : 199990000 	Numero scambi : 200009999 
+Quick Sort      : tempo: 0.367000	Numero confronti : 200029998 	Numero scambi : 19999     
+Heap Sort       : tempo: 0.001000	Numero confronti : 139216    	Numero scambi : 287232    
+Merge Sort      : tempo: 0.002000	Numero confronti : 493382    	Numero scambi : 284333    
+
+
+INSIEME CASUALE
+Selection Sort  : tempo: 0.319000	Numero confronti : 199990000 	Numero scambi : 19999     
+Insertion Sort  : tempo: 0.231000	Numero confronti : 98251613  	Numero scambi : 98251617  
+Quick Sort      : tempo: 0.004000	Numero confronti : 2187792   	Numero scambi : 50482     
+Heap Sort       : tempo: 0.002000	Numero confronti : 260412    	Numero scambi : 287232    
+Merge Sort      : tempo: 0.002000	Numero confronti : 511326    	Numero scambi : 298891    
+
+
+
+NUMERO ELEMENTI: 50000
+INSIEME ORDINATO
+Selection Sort  : tempo: 2.270000	Numero confronti : 1249975000	Numero scambi : 49999     
+Insertion Sort  : tempo: 0.000000	Numero confronti : 49999     	Numero scambi : 49999     
+Quick Sort      : tempo: 2.290000	Numero confronti : 1250074998	Numero scambi : 49999     
+Heap Sort       : tempo: 0.002000	Numero confronti : 401952    	Numero scambi : 784464    
+Merge Sort      : tempo: 0.005000	Numero confronti : 1455476   	Numero scambi : 848303    
+
+
+INSIEME QUASI_ORDINATO
+Selection Sort  : tempo: 2.052000	Numero confronti : 1249975000	Numero scambi : 49999     
+Insertion Sort  : tempo: 1.839000	Numero confronti : 779869455 	Numero scambi : 779869456 
+Quick Sort      : tempo: 0.558000	Numero confronti : 304528409 	Numero scambi : 114683    
+Heap Sort       : tempo: 0.003000	Numero confronti : 547175    	Numero scambi : 784464    
+Merge Sort      : tempo: 0.005000	Numero confronti : 1422404   	Numero scambi : 804857    
+
+
+INSIEME INV_ORDINATO
+Selection Sort  : tempo: 2.261000	Numero confronti : 1249975000	Numero scambi : 49999     
+Insertion Sort  : tempo: 2.945000	Numero confronti : 1249975000	Numero scambi : 1250024999
+Quick Sort      : tempo: 2.291000	Numero confronti : 1250074998	Numero scambi : 49999     
+Heap Sort       : tempo: 0.002000	Numero confronti : 382512    	Numero scambi : 784464    
+Merge Sort      : tempo: 0.005000	Numero confronti : 1366152   	Numero scambi : 773891    
+
+
+INSIEME CASUALE
+Selection Sort  : tempo: 2.177000	Numero confronti : 1249975000	Numero scambi : 49999     
+Insertion Sort  : tempo: 1.462000	Numero confronti : 614935408 	Numero scambi : 614935413 
+Quick Sort      : tempo: 0.028000	Numero confronti : 12888585  	Numero scambi : 128573    
+Heap Sort       : tempo: 0.005000	Numero confronti : 716888    	Numero scambi : 784464    
+Merge Sort      : tempo: 0.006000	Numero confronti : 1411032   	Numero scambi : 813765    
+
+
+INSIEME ORDINATO
+
+NUMERO ELEMENTI: 500
+Selection Sort  : tempo: 0.000000	Numero confronti : 124750    	Numero scambi : 499       
+Insertion Sort  : tempo: 0.000000	Numero confronti : 499       	Numero scambi : 499       
+Quick Sort      : tempo: 0.000000	Numero confronti : 125748    	Numero scambi : 499       
+Heap Sort       : tempo: 0.000000	Numero confronti : 2272      	Numero scambi : 4488      
+Merge Sort      : tempo: 0.000000	Numero confronti : 7792      	Numero scambi : 5103      
+
+
+
+NUMERO ELEMENTI: 1000
+Selection Sort  : tempo: 0.001000	Numero confronti : 499500    	Numero scambi : 999       
+Insertion Sort  : tempo: 0.000000	Numero confronti : 999       	Numero scambi : 999       
+Quick Sort      : tempo: 0.000000	Numero confronti : 501498    	Numero scambi : 999       
+Heap Sort       : tempo: 0.000000	Numero confronti : 5044      	Numero scambi : 9976      
+Merge Sort      : tempo: 0.000000	Numero confronti : 17626     	Numero scambi : 11207     
+
+
+
+NUMERO ELEMENTI: 2000
+Selection Sort  : tempo: 0.003000	Numero confronti : 1999000   	Numero scambi : 1999      
+Insertion Sort  : tempo: 0.000000	Numero confronti : 1999      	Numero scambi : 1999      
+Quick Sort      : tempo: 0.003000	Numero confronti : 2002998   	Numero scambi : 1999      
+Heap Sort       : tempo: 0.000000	Numero confronti : 11088     	Numero scambi : 21952     
+Merge Sort      : tempo: 0.000000	Numero confronti : 39190     	Numero scambi : 24299     
+
+
+
+NUMERO ELEMENTI: 5000
+Selection Sort  : tempo: 0.024000	Numero confronti : 12497500  	Numero scambi : 4999      
+Insertion Sort  : tempo: 0.000000	Numero confronti : 4999      	Numero scambi : 4999      
+Quick Sort      : tempo: 0.024000	Numero confronti : 12507498  	Numero scambi : 4999      
+Heap Sort       : tempo: 0.001000	Numero confronti : 32004     	Numero scambi : 61808     
+Merge Sort      : tempo: 0.000000	Numero confronti : 112186    	Numero scambi : 68431     
+
+
+
+NUMERO ELEMENTI: 10000
+Selection Sort  : tempo: 0.091000	Numero confronti : 49995000  	Numero scambi : 9999      
+Insertion Sort  : tempo: 0.000000	Numero confronti : 9999      	Numero scambi : 9999      
+Quick Sort      : tempo: 0.091000	Numero confronti : 50014998  	Numero scambi : 9999      
+Heap Sort       : tempo: 0.001000	Numero confronti : 69008     	Numero scambi : 133616    
+Merge Sort      : tempo: 0.001000	Numero confronti : 244576    	Numero scambi : 146955    
+
+
+
+NUMERO ELEMENTI: 20000
+Selection Sort  : tempo: 0.366000	Numero confronti : 199990000 	Numero scambi : 19999     
+Insertion Sort  : tempo: 0.000000	Numero confronti : 19999     	Numero scambi : 19999     
+Quick Sort      : tempo: 0.375000	Numero confronti : 200029998 	Numero scambi : 19999     
+Heap Sort       : tempo: 0.001000	Numero confronti : 148016    	Numero scambi : 287232    
+Merge Sort      : tempo: 0.002000	Numero confronti : 529096    	Numero scambi : 312877    
+
+
+
+NUMERO ELEMENTI: 50000
+Selection Sort  : tempo: 2.285000	Numero confronti : 1249975000	Numero scambi : 49999     
+Insertion Sort  : tempo: 0.000000	Numero confronti : 49999     	Numero scambi : 49999     
+Quick Sort      : tempo: 2.294000	Numero confronti : 1250074998	Numero scambi : 49999     
+Heap Sort       : tempo: 0.002000	Numero confronti : 401952    	Numero scambi : 784464    
+Merge Sort      : tempo: 0.005000	Numero confronti : 1455476   	Numero scambi : 848303    
+
+
+INSIEME QUASI_ORDINATO
+
+NUMERO ELEMENTI: 500
+Selection Sort  : tempo: 0.000000	Numero confronti : 124750    	Numero scambi : 499       
+Insertion Sort  : tempo: 0.000000	Numero confronti : 65760     	Numero scambi : 65761     
+Quick Sort      : tempo: 0.000000	Numero confronti : 11963     	Numero scambi : 1027      
+Heap Sort       : tempo: 0.000000	Numero confronti : 3065      	Numero scambi : 4488      
+Merge Sort      : tempo: 0.000000	Numero confronti : 7506      	Numero scambi : 4749      
+
+
+
+NUMERO ELEMENTI: 1000
+Selection Sort  : tempo: 0.001000	Numero confronti : 499500    	Numero scambi : 999       
+Insertion Sort  : tempo: 0.001000	Numero confronti : 286843    	Numero scambi : 286844    
+Quick Sort      : tempo: 0.000000	Numero confronti : 22704     	Numero scambi : 2337      
+Heap Sort       : tempo: 0.001000	Numero confronti : 6721      	Numero scambi : 9976      
+Merge Sort      : tempo: 0.000000	Numero confronti : 17086     	Numero scambi : 10477     
+
+
+
+NUMERO ELEMENTI: 2000
+Selection Sort  : tempo: 0.004000	Numero confronti : 1999000   	Numero scambi : 1999      
+Insertion Sort  : tempo: 0.003000	Numero confronti : 1200688   	Numero scambi : 1200689   
+Quick Sort      : tempo: 0.001000	Numero confronti : 322166    	Numero scambi : 4543      
+Heap Sort       : tempo: 0.000000	Numero confronti : 14842     	Numero scambi : 21952     
+Merge Sort      : tempo: 0.000000	Numero confronti : 38174     	Numero scambi : 22896     
+
+
+
+NUMERO ELEMENTI: 5000
+Selection Sort  : tempo: 0.021000	Numero confronti : 12497500  	Numero scambi : 4999      
+Insertion Sort  : tempo: 0.020000	Numero confronti : 7678886   	Numero scambi : 7678887   
+Quick Sort      : tempo: 0.001000	Numero confronti : 724495    	Numero scambi : 13127     
+Heap Sort       : tempo: 0.000000	Numero confronti : 42455     	Numero scambi : 61808     
+Merge Sort      : tempo: 0.001000	Numero confronti : 109026    	Numero scambi : 63896     
+
+
+
+NUMERO ELEMENTI: 10000
+Selection Sort  : tempo: 0.087000	Numero confronti : 49995000  	Numero scambi : 9999      
+Insertion Sort  : tempo: 0.081000	Numero confronti : 30965633  	Numero scambi : 30965634  
+Quick Sort      : tempo: 0.023000	Numero confronti : 12204155  	Numero scambi : 22293     
+Heap Sort       : tempo: 0.001000	Numero confronti : 92282     	Numero scambi : 133616    
+Merge Sort      : tempo: 0.001000	Numero confronti : 238032    	Numero scambi : 137805    
+
+
+
+NUMERO ELEMENTI: 20000
+Selection Sort  : tempo: 0.347000	Numero confronti : 199990000 	Numero scambi : 19999     
+Insertion Sort  : tempo: 0.325000	Numero confronti : 124311529 	Numero scambi : 124311530 
+Quick Sort      : tempo: 0.089000	Numero confronti : 48725354  	Numero scambi : 45650     
+Heap Sort       : tempo: 0.002000	Numero confronti : 199304    	Numero scambi : 287232    
+Merge Sort      : tempo: 0.002000	Numero confronti : 516120    	Numero scambi : 295446    
+
+
+
+NUMERO ELEMENTI: 50000
+Selection Sort  : tempo: 2.124000	Numero confronti : 1249975000	Numero scambi : 49999     
+Insertion Sort  : tempo: 2.039000	Numero confronti : 778292639 	Numero scambi : 778292640 
+Quick Sort      : tempo: 0.558000	Numero confronti : 304225173 	Numero scambi : 114844    
+Heap Sort       : tempo: 0.004000	Numero confronti : 547205    	Numero scambi : 784464    
+Merge Sort      : tempo: 0.005000	Numero confronti : 1422532   	Numero scambi : 804852    
+
+
+INSIEME INV_ORDINATO
+
+NUMERO ELEMENTI: 500
+Selection Sort  : tempo: 0.000000	Numero confronti : 124750    	Numero scambi : 499       
+Insertion Sort  : tempo: 0.001000	Numero confronti : 124750    	Numero scambi : 125249    
+Quick Sort      : tempo: 0.000000	Numero confronti : 125748    	Numero scambi : 499       
+Heap Sort       : tempo: 0.000000	Numero confronti : 2216      	Numero scambi : 4488      
+Merge Sort      : tempo: 0.000000	Numero confronti : 7028      	Numero scambi : 4425      
+
+
+
+NUMERO ELEMENTI: 1000
+Selection Sort  : tempo: 0.001000	Numero confronti : 499500    	Numero scambi : 999       
+Insertion Sort  : tempo: 0.001000	Numero confronti : 499500    	Numero scambi : 500499    
+Quick Sort      : tempo: 0.000000	Numero confronti : 501498    	Numero scambi : 999       
+Heap Sort       : tempo: 0.000000	Numero confronti : 4932      	Numero scambi : 9976      
+Merge Sort      : tempo: 0.000000	Numero confronti : 15982     	Numero scambi : 9815      
+
+
+
+NUMERO ELEMENTI: 2000
+Selection Sort  : tempo: 0.004000	Numero confronti : 1999000   	Numero scambi : 1999      
+Insertion Sort  : tempo: 0.005000	Numero confronti : 1999000   	Numero scambi : 2000999   
+Quick Sort      : tempo: 0.004000	Numero confronti : 2002998   	Numero scambi : 1999      
+Heap Sort       : tempo: 0.001000	Numero confronti : 10864     	Numero scambi : 21952     
+Merge Sort      : tempo: 0.000000	Numero confronti : 35986     	Numero scambi : 21707     
+
+
+
+NUMERO ELEMENTI: 5000
+Selection Sort  : tempo: 0.022000	Numero confronti : 12497500  	Numero scambi : 4999      
+Insertion Sort  : tempo: 0.033000	Numero confronti : 12497500  	Numero scambi : 12502499  
+Quick Sort      : tempo: 0.023000	Numero confronti : 12507498  	Numero scambi : 4999      
+Heap Sort       : tempo: 0.001000	Numero confronti : 29804     	Numero scambi : 61808     
+Merge Sort      : tempo: 0.000000	Numero confronti : 103264    	Numero scambi : 60935     
+
+
+
+NUMERO ELEMENTI: 10000
+Selection Sort  : tempo: 0.092000	Numero confronti : 49995000  	Numero scambi : 9999      
+Insertion Sort  : tempo: 0.130000	Numero confronti : 49995000  	Numero scambi : 50004999  
+Quick Sort      : tempo: 0.092000	Numero confronti : 50014998  	Numero scambi : 9999      
+Heap Sort       : tempo: 0.001000	Numero confronti : 64608     	Numero scambi : 133616    
+Merge Sort      : tempo: 0.000000	Numero confronti : 226720    	Numero scambi : 131695    
+
+
+
+NUMERO ELEMENTI: 20000
+Selection Sort  : tempo: 0.365000	Numero confronti : 199990000 	Numero scambi : 19999     
+Insertion Sort  : tempo: 0.524000	Numero confronti : 199990000 	Numero scambi : 200009999 
+Quick Sort      : tempo: 0.367000	Numero confronti : 200029998 	Numero scambi : 19999     
+Heap Sort       : tempo: 0.000000	Numero confronti : 139216    	Numero scambi : 287232    
+Merge Sort      : tempo: 0.001000	Numero confronti : 493382    	Numero scambi : 284333    
+
+
+
+NUMERO ELEMENTI: 50000
+Selection Sort  : tempo: 2.284000	Numero confronti : 1249975000	Numero scambi : 49999     
+Insertion Sort  : tempo: 3.285000	Numero confronti : 1249975000	Numero scambi : 1250024999
+Quick Sort      : tempo: 2.281000	Numero confronti : 1250074998	Numero scambi : 49999     
+Heap Sort       : tempo: 0.003000	Numero confronti : 382512    	Numero scambi : 784464    
+Merge Sort      : tempo: 0.005000	Numero confronti : 1366152   	Numero scambi : 773891    
+
+
+INSIEME CASUALE
+
+NUMERO ELEMENTI: 500
+Selection Sort  : tempo: 0.001000	Numero confronti : 124750    	Numero scambi : 499       
+Insertion Sort  : tempo: 0.000000	Numero confronti : 61470     	Numero scambi : 61472     
+Quick Sort      : tempo: 0.000000	Numero confronti : 6358      	Numero scambi : 1069      
+Heap Sort       : tempo: 0.000000	Numero confronti : 3878      	Numero scambi : 4488      
+Merge Sort      : tempo: 0.001000	Numero confronti : 7438      	Numero scambi : 4824      
+
+
+
+NUMERO ELEMENTI: 1000
+Selection Sort  : tempo: 0.001000	Numero confronti : 499500    	Numero scambi : 999       
+Insertion Sort  : tempo: 0.001000	Numero confronti : 249449    	Numero scambi : 249458    
+Quick Sort      : tempo: 0.000000	Numero confronti : 15001     	Numero scambi : 2312      
+Heap Sort       : tempo: 0.000000	Numero confronti : 8686      	Numero scambi : 9976      
+Merge Sort      : tempo: 0.000000	Numero confronti : 16912     	Numero scambi : 10639     
+
+
+
+NUMERO ELEMENTI: 2000
+Selection Sort  : tempo: 0.004000	Numero confronti : 1999000   	Numero scambi : 1999      
+Insertion Sort  : tempo: 0.002000	Numero confronti : 988045    	Numero scambi : 988048    
+Quick Sort      : tempo: 0.000000	Numero confronti : 41011     	Numero scambi : 4888      
+Heap Sort       : tempo: 0.000000	Numero confronti : 19347     	Numero scambi : 21952     
+Merge Sort      : tempo: 0.000000	Numero confronti : 37774     	Numero scambi : 23245     
+
+
+
+NUMERO ELEMENTI: 5000
+Selection Sort  : tempo: 0.020000	Numero confronti : 12497500  	Numero scambi : 4999      
+Insertion Sort  : tempo: 0.017000	Numero confronti : 6172418   	Numero scambi : 6172421   
+Quick Sort      : tempo: 0.000000	Numero confronti : 171072    	Numero scambi : 12655     
+Heap Sort       : tempo: 0.001000	Numero confronti : 55156     	Numero scambi : 61808     
+Merge Sort      : tempo: 0.001000	Numero confronti : 107896    	Numero scambi : 64784     
+
+
+
+NUMERO ELEMENTI: 10000
+Selection Sort  : tempo: 0.084000	Numero confronti : 49995000  	Numero scambi : 9999      
+Insertion Sort  : tempo: 0.065000	Numero confronti : 24795595  	Numero scambi : 24795598  
+Quick Sort      : tempo: 0.001000	Numero confronti : 600930    	Numero scambi : 25197     
+Heap Sort       : tempo: 0.001000	Numero confronti : 120195    	Numero scambi : 133616    
+Merge Sort      : tempo: 0.001000	Numero confronti : 235630    	Numero scambi : 139526    
+
+
+
+NUMERO ELEMENTI: 20000
+Selection Sort  : tempo: 0.337000	Numero confronti : 199990000 	Numero scambi : 19999     
+Insertion Sort  : tempo: 0.261000	Numero confronti : 100012839 	Numero scambi : 100012840 
+Quick Sort      : tempo: 0.005000	Numero confronti : 2196215   	Numero scambi : 50897     
+Heap Sort       : tempo: 0.002000	Numero confronti : 260306    	Numero scambi : 287232    
+Merge Sort      : tempo: 0.002000	Numero confronti : 511216    	Numero scambi : 298938    
+
+
+
+NUMERO ELEMENTI: 50000
+Selection Sort  : tempo: 2.132000	Numero confronti : 1249975000	Numero scambi : 49999     
+Insertion Sort  : tempo: 1.625000	Numero confronti : 618091642 	Numero scambi : 618091648 
+Quick Sort      : tempo: 0.025000	Numero confronti : 12841728  	Numero scambi : 129736    
+Heap Sort       : tempo: 0.005000	Numero confronti : 717008    	Numero scambi : 784464    
+Merge Sort      : tempo: 0.005000	Numero confronti : 1410996   	Numero scambi : 813744    
+
+
+INSIEME ORDINATO
+
+NUMERO ELEMENTI: 500
+Selection Sort  : tempo: 0.000000	Numero confronti : 124750    	Numero scambi : 499       
+Insertion Sort  : tempo: 0.000000	Numero confronti : 499       	Numero scambi : 499       
+Quick Sort      : tempo: 0.000000	Numero confronti : 2272      	Numero scambi : 4488      
+Heap Sort       : tempo: 0.000000	Numero confronti : 7792      	Numero scambi : 5103      
+Merge Sort      : tempo: 0.000000	Numero confronti : 125748    	Numero scambi : 499       
+
+
+
+NUMERO ELEMENTI: 1000
+Selection Sort  : tempo: 0.001000	Numero confronti : 499500    	Numero scambi : 999       
+Insertion Sort  : tempo: 0.000000	Numero confronti : 999       	Numero scambi : 999       
+Quick Sort      : tempo: 0.000000	Numero confronti : 5044      	Numero scambi : 9976      
+Heap Sort       : tempo: 0.000000	Numero confronti : 17626     	Numero scambi : 11207     
+Merge Sort      : tempo: 0.001000	Numero confronti : 501498    	Numero scambi : 999       
+
+
+
+NUMERO ELEMENTI: 2000
+Selection Sort  : tempo: 0.004000	Numero confronti : 1999000   	Numero scambi : 1999      
+Insertion Sort  : tempo: 0.000000	Numero confronti : 1999      	Numero scambi : 1999      
+Quick Sort      : tempo: 0.000000	Numero confronti : 11088     	Numero scambi : 21952     
+Heap Sort       : tempo: 0.000000	Numero confronti : 39190     	Numero scambi : 24299     
+Merge Sort      : tempo: 0.004000	Numero confronti : 2002998   	Numero scambi : 1999      
+
+
+
+NUMERO ELEMENTI: 5000
+Selection Sort  : tempo: 0.023000	Numero confronti : 12497500  	Numero scambi : 4999      
+Insertion Sort  : tempo: 0.000000	Numero confronti : 4999      	Numero scambi : 4999      
+Quick Sort      : tempo: 0.000000	Numero confronti : 32004     	Numero scambi : 61808     
+Heap Sort       : tempo: 0.001000	Numero confronti : 112186    	Numero scambi : 68431     
+Merge Sort      : tempo: 0.023000	Numero confronti : 12507498  	Numero scambi : 4999      
+
+
+
+NUMERO ELEMENTI: 10000
+Selection Sort  : tempo: 0.090000	Numero confronti : 49995000  	Numero scambi : 9999      
+Insertion Sort  : tempo: 0.000000	Numero confronti : 9999      	Numero scambi : 9999      
+Quick Sort      : tempo: 0.000000	Numero confronti : 69008     	Numero scambi : 133616    
+Heap Sort       : tempo: 0.001000	Numero confronti : 244576    	Numero scambi : 146955    
+Merge Sort      : tempo: 0.091000	Numero confronti : 50014998  	Numero scambi : 9999      
+
+
+
+NUMERO ELEMENTI: 20000
+Selection Sort  : tempo: 0.357000	Numero confronti : 199990000 	Numero scambi : 19999     
+Insertion Sort  : tempo: 0.000000	Numero confronti : 19999     	Numero scambi : 19999     
+Quick Sort      : tempo: 0.001000	Numero confronti : 148016    	Numero scambi : 287232    
+Heap Sort       : tempo: 0.002000	Numero confronti : 529096    	Numero scambi : 312877    
+Merge Sort      : tempo: 0.368000	Numero confronti : 200029998 	Numero scambi : 19999     
+
+
+
+NUMERO ELEMENTI: 50000
+Selection Sort  : tempo: 2.264000	Numero confronti : 1249975000	Numero scambi : 49999     
+Insertion Sort  : tempo: 0.000000	Numero confronti : 49999     	Numero scambi : 49999     
+Quick Sort      : tempo: 0.002000	Numero confronti : 401952    	Numero scambi : 784464    
+Heap Sort       : tempo: 0.004000	Numero confronti : 1455476   	Numero scambi : 848303    
+Merge Sort      : tempo: 2.301000	Numero confronti : 1250074998	Numero scambi : 49999     
+
+
+INSIEME QUASI_ORDINATO
+
+NUMERO ELEMENTI: 500
+Selection Sort  : tempo: 0.000000	Numero confronti : 124750    	Numero scambi : 499       
+Insertion Sort  : tempo: 0.000000	Numero confronti : 66160     	Numero scambi : 66161     
+Quick Sort      : tempo: 0.000000	Numero confronti : 3049      	Numero scambi : 4488      
+Heap Sort       : tempo: 0.000000	Numero confronti : 7490      	Numero scambi : 4740      
+Merge Sort      : tempo: 0.000000	Numero confronti : 13944     	Numero scambi : 991       
+
+
+
+NUMERO ELEMENTI: 1000
+Selection Sort  : tempo: 0.001000	Numero confronti : 499500    	Numero scambi : 999       
+Insertion Sort  : tempo: 0.001000	Numero confronti : 286715    	Numero scambi : 286716    
+Quick Sort      : tempo: 0.000000	Numero confronti : 6724      	Numero scambi : 9976      
+Heap Sort       : tempo: 0.000000	Numero confronti : 17108     	Numero scambi : 10490     
+Merge Sort      : tempo: 0.000000	Numero confronti : 14795     	Numero scambi : 2455      
+
+
+
+NUMERO ELEMENTI: 2000
+Selection Sort  : tempo: 0.004000	Numero confronti : 1999000   	Numero scambi : 1999      
+Insertion Sort  : tempo: 0.003000	Numero confronti : 1201306   	Numero scambi : 1201307   
+Quick Sort      : tempo: 0.000000	Numero confronti : 14839     	Numero scambi : 21952     
+Heap Sort       : tempo: 0.001000	Numero confronti : 38144     	Numero scambi : 22862     
+Merge Sort      : tempo: 0.000000	Numero confronti : 246712    	Numero scambi : 4649      
+
+
+
+NUMERO ELEMENTI: 5000
+Selection Sort  : tempo: 0.020000	Numero confronti : 12497500  	Numero scambi : 4999      
+Insertion Sort  : tempo: 0.020000	Numero confronti : 7667902   	Numero scambi : 7667903   
+Quick Sort      : tempo: 0.000000	Numero confronti : 42437     	Numero scambi : 61808     
+Heap Sort       : tempo: 0.000000	Numero confronti : 109064    	Numero scambi : 63968     
+Merge Sort      : tempo: 0.001000	Numero confronti : 511878    	Numero scambi : 13618     
+
+
+
+NUMERO ELEMENTI: 10000
+Selection Sort  : tempo: 0.088000	Numero confronti : 49995000  	Numero scambi : 9999      
+Insertion Sort  : tempo: 0.081000	Numero confronti : 30981648  	Numero scambi : 30981649  
+Quick Sort      : tempo: 0.000000	Numero confronti : 92210     	Numero scambi : 133616    
+Heap Sort       : tempo: 0.000000	Numero confronti : 237960    	Numero scambi : 137704    
+Merge Sort      : tempo: 0.000000	Numero confronti : 366354    	Numero scambi : 28799     
+
+
+
+NUMERO ELEMENTI: 20000
+Selection Sort  : tempo: 0.342000	Numero confronti : 199990000 	Numero scambi : 19999     
+Insertion Sort  : tempo: 0.328000	Numero confronti : 124357974 	Numero scambi : 124357975 
+Quick Sort      : tempo: 0.001000	Numero confronti : 199325    	Numero scambi : 287232    
+Heap Sort       : tempo: 0.001000	Numero confronti : 516058    	Numero scambi : 295456    
+Merge Sort      : tempo: 0.093000	Numero confronti : 48410032  	Numero scambi : 45402     
+
+
+
+NUMERO ELEMENTI: 50000
+Selection Sort  : tempo: 2.160000	Numero confronti : 1249975000	Numero scambi : 49999     
+Insertion Sort  : tempo: 2.061000	Numero confronti : 779664406 	Numero scambi : 779664407 
+Quick Sort      : tempo: 0.003000	Numero confronti : 546908    	Numero scambi : 784464    
+Heap Sort       : tempo: 0.005000	Numero confronti : 1422612   	Numero scambi : 804847    
+Merge Sort      : tempo: 0.560000	Numero confronti : 304377121 	Numero scambi : 113539    
+
+
+INSIEME INV_ORDINATO
+
+NUMERO ELEMENTI: 500
+Selection Sort  : tempo: 0.000000	Numero confronti : 124750    	Numero scambi : 499       
+Insertion Sort  : tempo: 0.000000	Numero confronti : 124750    	Numero scambi : 125249    
+Quick Sort      : tempo: 0.000000	Numero confronti : 2216      	Numero scambi : 4488      
+Heap Sort       : tempo: 0.000000	Numero confronti : 7028      	Numero scambi : 4425      
+Merge Sort      : tempo: 0.001000	Numero confronti : 125748    	Numero scambi : 499       
+
+
+
+NUMERO ELEMENTI: 1000
+Selection Sort  : tempo: 0.001000	Numero confronti : 499500    	Numero scambi : 999       
+Insertion Sort  : tempo: 0.001000	Numero confronti : 499500    	Numero scambi : 500499    
+Quick Sort      : tempo: 0.000000	Numero confronti : 4932      	Numero scambi : 9976      
+Heap Sort       : tempo: 0.000000	Numero confronti : 15982     	Numero scambi : 9815      
+Merge Sort      : tempo: 0.001000	Numero confronti : 501498    	Numero scambi : 999       
+
+
+
+NUMERO ELEMENTI: 2000
+Selection Sort  : tempo: 0.004000	Numero confronti : 1999000   	Numero scambi : 1999      
+Insertion Sort  : tempo: 0.005000	Numero confronti : 1999000   	Numero scambi : 2000999   
+Quick Sort      : tempo: 0.000000	Numero confronti : 10864     	Numero scambi : 21952     
+Heap Sort       : tempo: 0.001000	Numero confronti : 35986     	Numero scambi : 21707     
+Merge Sort      : tempo: 0.003000	Numero confronti : 2002998   	Numero scambi : 1999      
+
+
+
+NUMERO ELEMENTI: 5000
+Selection Sort  : tempo: 0.023000	Numero confronti : 12497500  	Numero scambi : 4999      
+Insertion Sort  : tempo: 0.033000	Numero confronti : 12497500  	Numero scambi : 12502499  
+Quick Sort      : tempo: 0.000000	Numero confronti : 29804     	Numero scambi : 61808     
+Heap Sort       : tempo: 0.001000	Numero confronti : 103264    	Numero scambi : 60935     
+Merge Sort      : tempo: 0.022000	Numero confronti : 12507498  	Numero scambi : 4999      
+
+
+
+NUMERO ELEMENTI: 10000
+Selection Sort  : tempo: 0.091000	Numero confronti : 49995000  	Numero scambi : 9999      
+Insertion Sort  : tempo: 0.139000	Numero confronti : 49995000  	Numero scambi : 50004999  
+Quick Sort      : tempo: 0.001000	Numero confronti : 64608     	Numero scambi : 133616    
+Heap Sort       : tempo: 0.001000	Numero confronti : 226720    	Numero scambi : 131695    
+Merge Sort      : tempo: 0.091000	Numero confronti : 50014998  	Numero scambi : 9999      
+
+
+
+NUMERO ELEMENTI: 20000
+Selection Sort  : tempo: 0.365000	Numero confronti : 199990000 	Numero scambi : 19999     
+Insertion Sort  : tempo: 0.543000	Numero confronti : 199990000 	Numero scambi : 200009999 
+Quick Sort      : tempo: 0.001000	Numero confronti : 139216    	Numero scambi : 287232    
+Heap Sort       : tempo: 0.002000	Numero confronti : 493382    	Numero scambi : 284333    
+Merge Sort      : tempo: 0.365000	Numero confronti : 200029998 	Numero scambi : 19999     
+
+
+
+NUMERO ELEMENTI: 50000
+Selection Sort  : tempo: 2.313000	Numero confronti : 1249975000	Numero scambi : 49999     
+Insertion Sort  : tempo: 3.278000	Numero confronti : 1249975000	Numero scambi : 1250024999
+Quick Sort      : tempo: 0.003000	Numero confronti : 382512    	Numero scambi : 784464    
+Heap Sort       : tempo: 0.004000	Numero confronti : 1366152   	Numero scambi : 773891    
+Merge Sort      : tempo: 2.291000	Numero confronti : 1250074998	Numero scambi : 49999     
+
+
+INSIEME CASUALE
+
+NUMERO ELEMENTI: 500
+Selection Sort  : tempo: 0.000000	Numero confronti : 124750    	Numero scambi : 499       
+Insertion Sort  : tempo: 0.001000	Numero confronti : 61337     	Numero scambi : 61342     
+Quick Sort      : tempo: 0.000000	Numero confronti : 3846      	Numero scambi : 4488      
+Heap Sort       : tempo: 0.000000	Numero confronti : 7456      	Numero scambi : 4802      
+Merge Sort      : tempo: 0.000000	Numero confronti : 6394      	Numero scambi : 1108      
+
+
+
+NUMERO ELEMENTI: 1000
+Selection Sort  : tempo: 0.001000	Numero confronti : 499500    	Numero scambi : 999       
+Insertion Sort  : tempo: 0.001000	Numero confronti : 250870    	Numero scambi : 250876    
+Quick Sort      : tempo: 0.000000	Numero confronti : 8682      	Numero scambi : 9976      
+Heap Sort       : tempo: 0.000000	Numero confronti : 16848     	Numero scambi : 10605     
+Merge Sort      : tempo: 0.000000	Numero confronti : 14999     	Numero scambi : 2384      
+
+
+
+NUMERO ELEMENTI: 2000
+Selection Sort  : tempo: 0.003000	Numero confronti : 1999000   	Numero scambi : 1999      
+Insertion Sort  : tempo: 0.003000	Numero confronti : 992455    	Numero scambi : 992457    
+Quick Sort      : tempo: 0.000000	Numero confronti : 19364     	Numero scambi : 21952     
+Heap Sort       : tempo: 0.000000	Numero confronti : 37718     	Numero scambi : 23172     
+Merge Sort      : tempo: 0.000000	Numero confronti : 43878     	Numero scambi : 4847      
+
+
+
+NUMERO ELEMENTI: 5000
+Selection Sort  : tempo: 0.021000	Numero confronti : 12497500  	Numero scambi : 4999      
+Insertion Sort  : tempo: 0.015000	Numero confronti : 6111356   	Numero scambi : 6111361   
+Quick Sort      : tempo: 0.000000	Numero confronti : 55126     	Numero scambi : 61808     
+Heap Sort       : tempo: 0.001000	Numero confronti : 107694    	Numero scambi : 64655     
+Merge Sort      : tempo: 0.001000	Numero confronti : 179590    	Numero scambi : 12571     
+
+
+
+NUMERO ELEMENTI: 10000
+Selection Sort  : tempo: 0.097000	Numero confronti : 49995000  	Numero scambi : 9999      
+Insertion Sort  : tempo: 0.064000	Numero confronti : 24640215  	Numero scambi : 24640218  
+Quick Sort      : tempo: 0.001000	Numero confronti : 120266    	Numero scambi : 133616    
+Heap Sort       : tempo: 0.001000	Numero confronti : 235572    	Numero scambi : 139457    
+Merge Sort      : tempo: 0.001000	Numero confronti : 601183    	Numero scambi : 25473     
+
+
+
+NUMERO ELEMENTI: 20000
+Selection Sort  : tempo: 0.341000	Numero confronti : 199990000 	Numero scambi : 19999     
+Insertion Sort  : tempo: 0.260000	Numero confronti : 99544818  	Numero scambi : 99544824  
+Quick Sort      : tempo: 0.002000	Numero confronti : 260551    	Numero scambi : 287232    
+Heap Sort       : tempo: 0.002000	Numero confronti : 511548    	Numero scambi : 299238    
+Merge Sort      : tempo: 0.005000	Numero confronti : 2184876   	Numero scambi : 50978     
+
+
+
+NUMERO ELEMENTI: 50000
+Selection Sort  : tempo: 2.140000	Numero confronti : 1249975000	Numero scambi : 49999     
+Insertion Sort  : tempo: 1.621000	Numero confronti : 619442665 	Numero scambi : 619442669 
+Quick Sort      : tempo: 0.005000	Numero confronti : 716608    	Numero scambi : 784464    
+Heap Sort       : tempo: 0.006000	Numero confronti : 1410966   	Numero scambi : 813716    
+Merge Sort      : tempo: 0.025000	Numero confronti : 12926151  	Numero scambi : 126325    
+
+
+INSIEME ORDINATO
+
+NUMERO ELEMENTI: 500
+Selection Sort  : tempo: 0.000000	Numero confronti : 124750    	Numero scambi : 499       
+Insertion Sort  : tempo: 0.000000	Numero confronti : 499       	Numero scambi : 499       
+Merge Sort      : tempo: 0.000000	Numero confronti : 2272      	Numero scambi : 4488      
+Heap Sort       : tempo: 0.000000	Numero confronti : 7792      	Numero scambi : 5103      
+Quick Sort      : tempo: 0.000000	Numero confronti : 125748    	Numero scambi : 499       
+
+
+
+NUMERO ELEMENTI: 1000
+Selection Sort  : tempo: 0.001000	Numero confronti : 499500    	Numero scambi : 999       
+Insertion Sort  : tempo: 0.000000	Numero confronti : 999       	Numero scambi : 999       
+Merge Sort      : tempo: 0.000000	Numero confronti : 5044      	Numero scambi : 9976      
+Heap Sort       : tempo: 0.000000	Numero confronti : 17626     	Numero scambi : 11207     
+Quick Sort      : tempo: 0.001000	Numero confronti : 501498    	Numero scambi : 999       
+
+
+
+NUMERO ELEMENTI: 2000
+Selection Sort  : tempo: 0.004000	Numero confronti : 1999000   	Numero scambi : 1999      
+Insertion Sort  : tempo: 0.000000	Numero confronti : 1999      	Numero scambi : 1999      
+Merge Sort      : tempo: 0.000000	Numero confronti : 11088     	Numero scambi : 21952     
+Heap Sort       : tempo: 0.000000	Numero confronti : 39190     	Numero scambi : 24299     
+Quick Sort      : tempo: 0.004000	Numero confronti : 2002998   	Numero scambi : 1999      
+
+
+
+NUMERO ELEMENTI: 5000
+Selection Sort  : tempo: 0.022000	Numero confronti : 12497500  	Numero scambi : 4999      
+Insertion Sort  : tempo: 0.000000	Numero confronti : 4999      	Numero scambi : 4999      
+Merge Sort      : tempo: 0.000000	Numero confronti : 32004     	Numero scambi : 61808     
+Heap Sort       : tempo: 0.000000	Numero confronti : 112186    	Numero scambi : 68431     
+Quick Sort      : tempo: 0.024000	Numero confronti : 12507498  	Numero scambi : 4999      
+
+
+
+NUMERO ELEMENTI: 10000
+Selection Sort  : tempo: 0.090000	Numero confronti : 49995000  	Numero scambi : 9999      
+Insertion Sort  : tempo: 0.000000	Numero confronti : 9999      	Numero scambi : 9999      
+Merge Sort      : tempo: 0.000000	Numero confronti : 69008     	Numero scambi : 133616    
+Heap Sort       : tempo: 0.001000	Numero confronti : 244576    	Numero scambi : 146955    
+Quick Sort      : tempo: 0.091000	Numero confronti : 50014998  	Numero scambi : 9999      
+
+
+
+NUMERO ELEMENTI: 20000
+Selection Sort  : tempo: 0.356000	Numero confronti : 199990000 	Numero scambi : 19999     
+Insertion Sort  : tempo: 0.000000	Numero confronti : 19999     	Numero scambi : 19999     
+Merge Sort      : tempo: 0.001000	Numero confronti : 148016    	Numero scambi : 287232    
+Heap Sort       : tempo: 0.002000	Numero confronti : 529096    	Numero scambi : 312877    
+Quick Sort      : tempo: 0.366000	Numero confronti : 200029998 	Numero scambi : 19999     
+
+
+
+NUMERO ELEMENTI: 50000
+Selection Sort  : tempo: 2.281000	Numero confronti : 1249975000	Numero scambi : 49999     
+Insertion Sort  : tempo: 0.000000	Numero confronti : 49999     	Numero scambi : 49999     
+Merge Sort      : tempo: 0.002000	Numero confronti : 401952    	Numero scambi : 784464    
+Heap Sort       : tempo: 0.005000	Numero confronti : 1455476   	Numero scambi : 848303    
+Quick Sort      : tempo: 2.284000	Numero confronti : 1250074998	Numero scambi : 49999     
+
+
+INSIEME QUASI_ORDINATO
+
+NUMERO ELEMENTI: 500
+Selection Sort  : tempo: 0.000000	Numero confronti : 124750    	Numero scambi : 499       
+Insertion Sort  : tempo: 0.000000	Numero confronti : 66350     	Numero scambi : 66351     
+Merge Sort      : tempo: 0.000000	Numero confronti : 3037      	Numero scambi : 4488      
+Heap Sort       : tempo: 0.000000	Numero confronti : 7472      	Numero scambi : 4724      
+Quick Sort      : tempo: 0.000000	Numero confronti : 7335      	Numero scambi : 1069      
+
+
+
+NUMERO ELEMENTI: 1000
+Selection Sort  : tempo: 0.001000	Numero confronti : 499500    	Numero scambi : 999       
+Insertion Sort  : tempo: 0.001000	Numero confronti : 288284    	Numero scambi : 288285    
+Merge Sort      : tempo: 0.000000	Numero confronti : 6723      	Numero scambi : 9976      
+Heap Sort       : tempo: 0.000000	Numero confronti : 17066     	Numero scambi : 10459     
+Quick Sort      : tempo: 0.000000	Numero confronti : 16450     	Numero scambi : 2443      
+
+
+
+NUMERO ELEMENTI: 2000
+Selection Sort  : tempo: 0.004000	Numero confronti : 1999000   	Numero scambi : 1999      
+Insertion Sort  : tempo: 0.004000	Numero confronti : 1199297   	Numero scambi : 1199298   
+Merge Sort      : tempo: 0.000000	Numero confronti : 14846     	Numero scambi : 21952     
+Heap Sort       : tempo: 0.000000	Numero confronti : 38200     	Numero scambi : 22918     
+Quick Sort      : tempo: 0.001000	Numero confronti : 324462    	Numero scambi : 4563      
+
+
+
+NUMERO ELEMENTI: 5000
+Selection Sort  : tempo: 0.020000	Numero confronti : 12497500  	Numero scambi : 4999      
+Insertion Sort  : tempo: 0.020000	Numero confronti : 7669845   	Numero scambi : 7669846   
+Merge Sort      : tempo: 0.000000	Numero confronti : 42429     	Numero scambi : 61808     
+Heap Sort       : tempo: 0.001000	Numero confronti : 109012    	Numero scambi : 63899     
+Quick Sort      : tempo: 0.002000	Numero confronti : 1059190   	Numero scambi : 12672     
+
+
+
+NUMERO ELEMENTI: 10000
+Selection Sort  : tempo: 0.082000	Numero confronti : 49995000  	Numero scambi : 9999      
+Insertion Sort  : tempo: 0.081000	Numero confronti : 30915035  	Numero scambi : 30915036  
+Merge Sort      : tempo: 0.000000	Numero confronti : 92293     	Numero scambi : 133616    
+Heap Sort       : tempo: 0.000000	Numero confronti : 237982    	Numero scambi : 137727    
+Quick Sort      : tempo: 0.022000	Numero confronti : 12156035  	Numero scambi : 22412     
+
+
+
+NUMERO ELEMENTI: 20000
+Selection Sort  : tempo: 0.347000	Numero confronti : 199990000 	Numero scambi : 19999     
+Insertion Sort  : tempo: 0.325000	Numero confronti : 124214446 	Numero scambi : 124214447 
+Merge Sort      : tempo: 0.002000	Numero confronti : 199246    	Numero scambi : 287232    
+Heap Sort       : tempo: 0.002000	Numero confronti : 516114    	Numero scambi : 295577    
+Quick Sort      : tempo: 0.091000	Numero confronti : 48691090  	Numero scambi : 45524     
+
+
+
+NUMERO ELEMENTI: 50000
+Selection Sort  : tempo: 2.151000	Numero confronti : 1249975000	Numero scambi : 49999     
+Insertion Sort  : tempo: 2.036000	Numero confronti : 778371579 	Numero scambi : 778371580 
+Merge Sort      : tempo: 0.003000	Numero confronti : 546903    	Numero scambi : 784464    
+Heap Sort       : tempo: 0.005000	Numero confronti : 1422460   	Numero scambi : 804684    
+Quick Sort      : tempo: 0.558000	Numero confronti : 304489415 	Numero scambi : 113847    
+
+
+INSIEME INV_ORDINATO
+
+NUMERO ELEMENTI: 500
+Selection Sort  : tempo: 0.001000	Numero confronti : 124750    	Numero scambi : 499       
+Insertion Sort  : tempo: 0.000000	Numero confronti : 124750    	Numero scambi : 125249    
+Merge Sort      : tempo: 0.000000	Numero confronti : 2216      	Numero scambi : 4488      
+Heap Sort       : tempo: 0.000000	Numero confronti : 7028      	Numero scambi : 4425      
+Quick Sort      : tempo: 0.000000	Numero confronti : 125748    	Numero scambi : 499       
+
+
+
+NUMERO ELEMENTI: 1000
+Selection Sort  : tempo: 0.001000	Numero confronti : 499500    	Numero scambi : 999       
+Insertion Sort  : tempo: 0.002000	Numero confronti : 499500    	Numero scambi : 500499    
+Merge Sort      : tempo: 0.000000	Numero confronti : 4932      	Numero scambi : 9976      
+Heap Sort       : tempo: 0.000000	Numero confronti : 15982     	Numero scambi : 9815      
+Quick Sort      : tempo: 0.001000	Numero confronti : 501498    	Numero scambi : 999       
+
+
+
+NUMERO ELEMENTI: 2000
+Selection Sort  : tempo: 0.003000	Numero confronti : 1999000   	Numero scambi : 1999      
+Insertion Sort  : tempo: 0.005000	Numero confronti : 1999000   	Numero scambi : 2000999   
+Merge Sort      : tempo: 0.000000	Numero confronti : 10864     	Numero scambi : 21952     
+Heap Sort       : tempo: 0.000000	Numero confronti : 35986     	Numero scambi : 21707     
+Quick Sort      : tempo: 0.004000	Numero confronti : 2002998   	Numero scambi : 1999      
+
+
+
+NUMERO ELEMENTI: 5000
+Selection Sort  : tempo: 0.023000	Numero confronti : 12497500  	Numero scambi : 4999      
+Insertion Sort  : tempo: 0.033000	Numero confronti : 12497500  	Numero scambi : 12502499  
+Merge Sort      : tempo: 0.000000	Numero confronti : 29804     	Numero scambi : 61808     
+Heap Sort       : tempo: 0.000000	Numero confronti : 103264    	Numero scambi : 60935     
+Quick Sort      : tempo: 0.023000	Numero confronti : 12507498  	Numero scambi : 4999      
+
+
+
+NUMERO ELEMENTI: 10000
+Selection Sort  : tempo: 0.092000	Numero confronti : 49995000  	Numero scambi : 9999      
+Insertion Sort  : tempo: 0.130000	Numero confronti : 49995000  	Numero scambi : 50004999  
+Merge Sort      : tempo: 0.001000	Numero confronti : 64608     	Numero scambi : 133616    
+Heap Sort       : tempo: 0.001000	Numero confronti : 226720    	Numero scambi : 131695    
+Quick Sort      : tempo: 0.091000	Numero confronti : 50014998  	Numero scambi : 9999      
+
+
+
+NUMERO ELEMENTI: 20000
+Selection Sort  : tempo: 0.363000	Numero confronti : 199990000 	Numero scambi : 19999     
+Insertion Sort  : tempo: 0.523000	Numero confronti : 199990000 	Numero scambi : 200009999 
+Merge Sort      : tempo: 0.001000	Numero confronti : 139216    	Numero scambi : 287232    
+Heap Sort       : tempo: 0.002000	Numero confronti : 493382    	Numero scambi : 284333    
+Quick Sort      : tempo: 0.367000	Numero confronti : 200029998 	Numero scambi : 19999     
+
+
+
+NUMERO ELEMENTI: 50000
+Selection Sort  : tempo: 2.265000	Numero confronti : 1249975000	Numero scambi : 49999     
+Insertion Sort  : tempo: 3.265000	Numero confronti : 1249975000	Numero scambi : 1250024999
+Merge Sort      : tempo: 0.003000	Numero confronti : 382512    	Numero scambi : 784464    
+Heap Sort       : tempo: 0.005000	Numero confronti : 1366152   	Numero scambi : 773891    
+Quick Sort      : tempo: 2.284000	Numero confronti : 1250074998	Numero scambi : 49999     
+
+
+INSIEME CASUALE
+
+NUMERO ELEMENTI: 500
+Selection Sort  : tempo: 0.000000	Numero confronti : 124750    	Numero scambi : 499       
+Insertion Sort  : tempo: 0.001000	Numero confronti : 61829     	Numero scambi : 61833     
+Merge Sort      : tempo: 0.000000	Numero confronti : 3853      	Numero scambi : 4488      
+Heap Sort       : tempo: 0.000000	Numero confronti : 7440      	Numero scambi : 4791      
+Quick Sort      : tempo: 0.000000	Numero confronti : 5830      	Numero scambi : 1076      
+
+
+
+NUMERO ELEMENTI: 1000
+Selection Sort  : tempo: 0.001000	Numero confronti : 499500    	Numero scambi : 999       
+Insertion Sort  : tempo: 0.001000	Numero confronti : 249289    	Numero scambi : 249296    
+Merge Sort      : tempo: 0.000000	Numero confronti : 8719      	Numero scambi : 9976      
+Heap Sort       : tempo: 0.000000	Numero confronti : 16944     	Numero scambi : 10654     
+Quick Sort      : tempo: 0.000000	Numero confronti : 14414     	Numero scambi : 2382      
+
+
+
+NUMERO ELEMENTI: 2000
+Selection Sort  : tempo: 0.003000	Numero confronti : 1999000   	Numero scambi : 1999      
+Insertion Sort  : tempo: 0.003000	Numero confronti : 993370    	Numero scambi : 993376    
+Merge Sort      : tempo: 0.000000	Numero confronti : 19425     	Numero scambi : 21952     
+Heap Sort       : tempo: 0.001000	Numero confronti : 37794     	Numero scambi : 23252     
+Quick Sort      : tempo: 0.000000	Numero confronti : 41335     	Numero scambi : 4861      
+
+
+
+NUMERO ELEMENTI: 5000
+Selection Sort  : tempo: 0.020000	Numero confronti : 12497500  	Numero scambi : 4999      
+Insertion Sort  : tempo: 0.017000	Numero confronti : 6238714   	Numero scambi : 6238715   
+Merge Sort      : tempo: 0.001000	Numero confronti : 55103     	Numero scambi : 61808     
+Heap Sort       : tempo: 0.000000	Numero confronti : 107962    	Numero scambi : 64819     
+Quick Sort      : tempo: 0.001000	Numero confronti : 176019    	Numero scambi : 12613     
+
+
+
+NUMERO ELEMENTI: 10000
+Selection Sort  : tempo: 0.086000	Numero confronti : 49995000  	Numero scambi : 9999      
+Insertion Sort  : tempo: 0.065000	Numero confronti : 24767870  	Numero scambi : 24767872  
+Merge Sort      : tempo: 0.001000	Numero confronti : 120291    	Numero scambi : 133616    
+Heap Sort       : tempo: 0.001000	Numero confronti : 235718    	Numero scambi : 139599    
+Quick Sort      : tempo: 0.001000	Numero confronti : 607377    	Numero scambi : 25315     
+
+
+
+NUMERO ELEMENTI: 20000
+Selection Sort  : tempo: 0.328000	Numero confronti : 199990000 	Numero scambi : 19999     
+Insertion Sort  : tempo: 0.258000	Numero confronti : 98901555  	Numero scambi : 98901559  
+Merge Sort      : tempo: 0.002000	Numero confronti : 260459    	Numero scambi : 287232    
+Heap Sort       : tempo: 0.002000	Numero confronti : 511308    	Numero scambi : 298900    
+Quick Sort      : tempo: 0.004000	Numero confronti : 2198610   	Numero scambi : 50690     
+
+
+
+NUMERO ELEMENTI: 50000
+Selection Sort  : tempo: 2.196000	Numero confronti : 1249975000	Numero scambi : 49999     
+Insertion Sort  : tempo: 1.623000	Numero confronti : 620568436 	Numero scambi : 620568438 
+Merge Sort      : tempo: 0.005000	Numero confronti : 716439    	Numero scambi : 784464    
+Heap Sort       : tempo: 0.005000	Numero confronti : 1410912   	Numero scambi : 813791    
+Quick Sort      : tempo: 0.025000	Numero confronti : 12893147  	Numero scambi : 127899    
+

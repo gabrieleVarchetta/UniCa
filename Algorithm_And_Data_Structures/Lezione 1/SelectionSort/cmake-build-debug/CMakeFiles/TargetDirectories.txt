@@ -1,0 +1,3 @@
+/Users/gabriele/Documents/Università/PRIMO_ANNO/SECONDO_SEMESTRE/ASD/Laboratorio/ASD/Lezione 1/SelectionSort/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/gabriele/Documents/Università/PRIMO_ANNO/SECONDO_SEMESTRE/ASD/Laboratorio/ASD/Lezione 1/SelectionSort/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/gabriele/Documents/Università/PRIMO_ANNO/SECONDO_SEMESTRE/ASD/Laboratorio/ASD/Lezione 1/SelectionSort/cmake-build-debug/CMakeFiles/SelectionSort.dir

@@ -1,0 +1,3 @@
+D:/ASD/Lezione 9/Aerei/cmake-build-debug/CMakeFiles/Aerei.dir
+D:/ASD/Lezione 9/Aerei/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/ASD/Lezione 9/Aerei/cmake-build-debug/CMakeFiles/rebuild_cache.dir

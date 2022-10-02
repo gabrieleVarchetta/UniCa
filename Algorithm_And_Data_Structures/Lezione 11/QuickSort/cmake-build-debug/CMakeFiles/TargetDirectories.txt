@@ -1,0 +1,3 @@
+D:/ASD/Lezione 11/QuickSort/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/ASD/Lezione 11/QuickSort/cmake-build-debug/CMakeFiles/QuickSort.dir
+D:/ASD/Lezione 11/QuickSort/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+D:/ASD/Lezione 5/Amazon/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+D:/ASD/Lezione 5/Amazon/cmake-build-debug/CMakeFiles/Amazon.dir
+D:/ASD/Lezione 5/Amazon/cmake-build-debug/CMakeFiles/edit_cache.dir

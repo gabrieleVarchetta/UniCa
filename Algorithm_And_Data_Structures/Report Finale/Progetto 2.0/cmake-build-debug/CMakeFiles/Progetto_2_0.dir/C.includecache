@@ -1,0 +1,50 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/gabriele/Documents/Università/PRIMO_ANNO/SECONDO_SEMESTRE/ASD/Laboratorio/ASD/Report Finale/Progetto 2.0/main.c
+stdio.h
+-
+stdlib.h
+-
+time.h
+-
+vectorFunctions.h
+/Users/gabriele/Documents/Università/PRIMO_ANNO/SECONDO_SEMESTRE/ASD/Laboratorio/ASD/Report Finale/Progetto 2.0/vectorFunctions.h
+supportFunctions.h
+/Users/gabriele/Documents/Università/PRIMO_ANNO/SECONDO_SEMESTRE/ASD/Laboratorio/ASD/Report Finale/Progetto 2.0/supportFunctions.h
+
+/Users/gabriele/Documents/Università/PRIMO_ANNO/SECONDO_SEMESTRE/ASD/Laboratorio/ASD/Report Finale/Progetto 2.0/sortingAlgorithms.c
+sortingAlgorithms.h
+/Users/gabriele/Documents/Università/PRIMO_ANNO/SECONDO_SEMESTRE/ASD/Laboratorio/ASD/Report Finale/Progetto 2.0/sortingAlgorithms.h
+supportFunctions.h
+/Users/gabriele/Documents/Università/PRIMO_ANNO/SECONDO_SEMESTRE/ASD/Laboratorio/ASD/Report Finale/Progetto 2.0/supportFunctions.h
+
+/Users/gabriele/Documents/Università/PRIMO_ANNO/SECONDO_SEMESTRE/ASD/Laboratorio/ASD/Report Finale/Progetto 2.0/sortingAlgorithms.h
+
+/Users/gabriele/Documents/Università/PRIMO_ANNO/SECONDO_SEMESTRE/ASD/Laboratorio/ASD/Report Finale/Progetto 2.0/supportFunctions.c
+supportFunctions.h
+/Users/gabriele/Documents/Università/PRIMO_ANNO/SECONDO_SEMESTRE/ASD/Laboratorio/ASD/Report Finale/Progetto 2.0/supportFunctions.h
+
+/Users/gabriele/Documents/Università/PRIMO_ANNO/SECONDO_SEMESTRE/ASD/Laboratorio/ASD/Report Finale/Progetto 2.0/supportFunctions.h
+time.h
+-
+vectorFunctions.h
+/Users/gabriele/Documents/Università/PRIMO_ANNO/SECONDO_SEMESTRE/ASD/Laboratorio/ASD/Report Finale/Progetto 2.0/vectorFunctions.h
+sortingAlgorithms.h
+/Users/gabriele/Documents/Università/PRIMO_ANNO/SECONDO_SEMESTRE/ASD/Laboratorio/ASD/Report Finale/Progetto 2.0/sortingAlgorithms.h
+
+/Users/gabriele/Documents/Università/PRIMO_ANNO/SECONDO_SEMESTRE/ASD/Laboratorio/ASD/Report Finale/Progetto 2.0/vectorFunctions.c
+vectorFunctions.h
+/Users/gabriele/Documents/Università/PRIMO_ANNO/SECONDO_SEMESTRE/ASD/Laboratorio/ASD/Report Finale/Progetto 2.0/vectorFunctions.h
+
+/Users/gabriele/Documents/Università/PRIMO_ANNO/SECONDO_SEMESTRE/ASD/Laboratorio/ASD/Report Finale/Progetto 2.0/vectorFunctions.h
+stdlib.h
+-
+stdio.h
+-
+

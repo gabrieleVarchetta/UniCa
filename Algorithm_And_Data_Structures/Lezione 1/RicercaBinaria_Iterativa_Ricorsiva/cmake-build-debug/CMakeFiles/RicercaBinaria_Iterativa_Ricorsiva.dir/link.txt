@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2020.2.4\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\RicercaBinaria_Iterativa_Ricorsiva.dir/objects.a
+D:\mingw\mingw64\bin\ar.exe cr CMakeFiles\RicercaBinaria_Iterativa_Ricorsiva.dir/objects.a @CMakeFiles\RicercaBinaria_Iterativa_Ricorsiva.dir\objects1.rsp
+D:\mingw\mingw64\bin\gcc.exe -g   -Wl,--whole-archive CMakeFiles\RicercaBinaria_Iterativa_Ricorsiva.dir/objects.a -Wl,--no-whole-archive  -o RicercaBinaria_Iterativa_Ricorsiva.exe -Wl,--out-implib,libRicercaBinaria_Iterativa_Ricorsiva.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\RicercaBinaria_Iterativa_Ricorsiva.dir\linklibs.rsp

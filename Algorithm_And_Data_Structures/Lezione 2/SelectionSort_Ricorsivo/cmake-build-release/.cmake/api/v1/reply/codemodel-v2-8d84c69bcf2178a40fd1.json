@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Release-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.17"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Release",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "SelectionSort_Ricorsivo",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "SelectionSort_Ricorsivo::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-SelectionSort_Ricorsivo-Release-c09146f5a6d33bafcf2e.json",
+					"name" : "SelectionSort_Ricorsivo",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/gabriele/Documents/Università/PRIMO_ANNO/SECONDO_SEMESTRE/ASD/Laboratorio/ASD/Lezione 2/SelectionSort_Ricorsivo/cmake-build-release",
+		"source" : "/Users/gabriele/Documents/Università/PRIMO_ANNO/SECONDO_SEMESTRE/ASD/Laboratorio/ASD/Lezione 2/SelectionSort_Ricorsivo"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

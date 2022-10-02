@@ -1,0 +1,238 @@
+
+
+NUMERO ELEMENTI: 500
+INSIEME ORDINATO
+Selection Sort ; 124750    ; 499       ; 0.000000
+Insertion Sort ; 499       ; 499       ; 0.000000
+Quick Sort     ; 125748    ; 499       ; 0.000000
+Heap Sort      ; 2272      ; 4488      ; 0.001000
+Merge Sort     ; 7792      ; 5103      ; 0.000000
+
+
+INSIEME QUASI_ORDINATO
+Selection Sort ; 124750    ; 499       ; 0.001000
+Insertion Sort ; 66537     ; 66538     ; 0.000000
+Quick Sort     ; 6973      ; 1085      ; 0.000000
+Heap Sort      ; 3036      ; 4488      ; 0.000000
+Merge Sort     ; 7492      ; 4730      ; 0.000000
+
+
+INSIEME INV_ORDINATO
+Selection Sort ; 124750    ; 499       ; 0.000000
+Insertion Sort ; 124750    ; 125249    ; 0.000000
+Quick Sort     ; 125748    ; 499       ; 0.001000
+Heap Sort      ; 2216      ; 4488      ; 0.000000
+Merge Sort     ; 7028      ; 4425      ; 0.000000
+
+
+INSIEME CASUALE
+Selection Sort ; 124750    ; 499       ; 0.000000
+Insertion Sort ; 63609     ; 63613     ; 0.000000
+Quick Sort     ; 6018      ; 1113      ; 0.000000
+Heap Sort      ; 3855      ; 4488      ; 0.000000
+Merge Sort     ; 7414      ; 4771      ; 0.000000
+
+
+
+NUMERO ELEMENTI: 1000
+INSIEME ORDINATO
+Selection Sort ; 499500    ; 999       ; 0.001000
+Insertion Sort ; 999       ; 999       ; 0.000000
+Quick Sort     ; 501498    ; 999       ; 0.001000
+Heap Sort      ; 5044      ; 9976      ; 0.000000
+Merge Sort     ; 17626     ; 11207     ; 0.000000
+
+
+INSIEME QUASI_ORDINATO
+Selection Sort ; 499500    ; 999       ; 0.001000
+Insertion Sort ; 289339    ; 289340    ; 0.000000
+Quick Sort     ; 31346     ; 2307      ; 0.000000
+Heap Sort      ; 6736      ; 9976      ; 0.000000
+Merge Sort     ; 17054     ; 10458     ; 0.000000
+
+
+INSIEME INV_ORDINATO
+Selection Sort ; 499500    ; 999       ; 0.000000
+Insertion Sort ; 499500    ; 500499    ; 0.002000
+Quick Sort     ; 501498    ; 999       ; 0.001000
+Heap Sort      ; 4932      ; 9976      ; 0.000000
+Merge Sort     ; 15982     ; 9815      ; 0.000000
+
+
+INSIEME CASUALE
+Selection Sort ; 499500    ; 999       ; 0.000000
+Insertion Sort ; 256203    ; 256211    ; 0.000000
+Quick Sort     ; 13959     ; 2378      ; 0.000000
+Heap Sort      ; 8680      ; 9976      ; 0.001000
+Merge Sort     ; 16886     ; 10612     ; 0.000000
+
+
+
+NUMERO ELEMENTI: 2000
+INSIEME ORDINATO
+Selection Sort ; 1999000   ; 1999      ; 0.003000
+Insertion Sort ; 1999      ; 1999      ; 0.000000
+Quick Sort     ; 2002998   ; 1999      ; 0.004000
+Heap Sort      ; 11088     ; 21952     ; 0.000000
+Merge Sort     ; 39190     ; 24299     ; 0.001000
+
+
+INSIEME QUASI_ORDINATO
+Selection Sort ; 1999000   ; 1999      ; 0.004000
+Insertion Sort ; 1205523   ; 1205524   ; 0.002000
+Quick Sort     ; 252303    ; 4674      ; 0.000000
+Heap Sort      ; 14860     ; 21952     ; 0.000000
+Merge Sort     ; 38168     ; 22879     ; 0.000000
+
+
+INSIEME INV_ORDINATO
+Selection Sort ; 1999000   ; 1999      ; 0.004000
+Insertion Sort ; 1999000   ; 2000999   ; 0.004000
+Quick Sort     ; 2002998   ; 1999      ; 0.004000
+Heap Sort      ; 10864     ; 21952     ; 0.000000
+Merge Sort     ; 35986     ; 21707     ; 0.001000
+
+
+INSIEME CASUALE
+Selection Sort ; 1999000   ; 1999      ; 0.003000
+Insertion Sort ; 992756    ; 992761    ; 0.003000
+Quick Sort     ; 38236     ; 4968      ; 0.000000
+Heap Sort      ; 19395     ; 21952     ; 0.001000
+Merge Sort     ; 37834     ; 23251     ; 0.000000
+
+
+
+NUMERO ELEMENTI: 5000
+INSIEME ORDINATO
+Selection Sort ; 12497500  ; 4999      ; 0.022000
+Insertion Sort ; 4999      ; 4999      ; 0.000000
+Quick Sort     ; 12507498  ; 4999      ; 0.023000
+Heap Sort      ; 32004     ; 61808     ; 0.001000
+Merge Sort     ; 112186    ; 68431     ; 0.000000
+
+
+INSIEME QUASI_ORDINATO
+Selection Sort ; 12497500  ; 4999      ; 0.020000
+Insertion Sort ; 7701858   ; 7701859   ; 0.018000
+Quick Sort     ; 752531    ; 12988     ; 0.002000
+Heap Sort      ; 42410     ; 61808     ; 0.000000
+Merge Sort     ; 109022    ; 63902     ; 0.000000
+
+
+INSIEME INV_ORDINATO
+Selection Sort ; 12497500  ; 4999      ; 0.023000
+Insertion Sort ; 12497500  ; 12502499  ; 0.029000
+Quick Sort     ; 12507498  ; 4999      ; 0.023000
+Heap Sort      ; 29804     ; 61808     ; 0.000000
+Merge Sort     ; 103264    ; 60935     ; 0.000000
+
+
+INSIEME CASUALE
+Selection Sort ; 12497500  ; 4999      ; 0.020000
+Insertion Sort ; 6259537   ; 6259539   ; 0.015000
+Quick Sort     ; 178638    ; 12363     ; 0.001000
+Heap Sort      ; 55144     ; 61808     ; 0.000000
+Merge Sort     ; 107786    ; 64675     ; 0.001000
+
+
+
+NUMERO ELEMENTI: 10000
+INSIEME ORDINATO
+Selection Sort ; 49995000  ; 9999      ; 0.091000
+Insertion Sort ; 9999      ; 9999      ; 0.000000
+Quick Sort     ; 50014998  ; 9999      ; 0.091000
+Heap Sort      ; 69008     ; 133616    ; 0.000000
+Merge Sort     ; 244576    ; 146955    ; 0.001000
+
+
+INSIEME QUASI_ORDINATO
+Selection Sort ; 49995000  ; 9999      ; 0.082000
+Insertion Sort ; 30986169  ; 30986170  ; 0.073000
+Quick Sort     ; 686441    ; 26669     ; 0.001000
+Heap Sort      ; 92133     ; 133616    ; 0.000000
+Merge Sort     ; 238082    ; 137880    ; 0.001000
+
+
+INSIEME INV_ORDINATO
+Selection Sort ; 49995000  ; 9999      ; 0.082000
+Insertion Sort ; 49995000  ; 50004999  ; 0.119000
+Quick Sort     ; 50014998  ; 9999      ; 0.092000
+Heap Sort      ; 64608     ; 133616    ; 0.001000
+Merge Sort     ; 226720    ; 131695    ; 0.001000
+
+
+INSIEME CASUALE
+Selection Sort ; 49995000  ; 9999      ; 0.079000
+Insertion Sort ; 24788130  ; 24788130  ; 0.059000
+Quick Sort     ; 597039    ; 25590     ; 0.001000
+Heap Sort      ; 120226    ; 133616    ; 0.000000
+Merge Sort     ; 235508    ; 139402    ; 0.001000
+
+
+
+NUMERO ELEMENTI: 20000
+INSIEME ORDINATO
+Selection Sort ; 199990000 ; 19999     ; 0.366000
+Insertion Sort ; 19999     ; 19999     ; 0.000000
+Quick Sort     ; 200029998 ; 19999     ; 0.365000
+Heap Sort      ; 148016    ; 287232    ; 0.001000
+Merge Sort     ; 529096    ; 312877    ; 0.002000
+
+
+INSIEME QUASI_ORDINATO
+Selection Sort ; 199990000 ; 19999     ; 0.318000
+Insertion Sort ; 124369864 ; 124369865 ; 0.295000
+Quick Sort     ; 48755383  ; 45301     ; 0.090000
+Heap Sort      ; 199294    ; 287232    ; 0.001000
+Merge Sort     ; 515928    ; 295428    ; 0.002000
+
+
+INSIEME INV_ORDINATO
+Selection Sort ; 199990000 ; 19999     ; 0.356000
+Insertion Sort ; 199990000 ; 200009999 ; 0.469000
+Quick Sort     ; 200029998 ; 19999     ; 0.367000
+Heap Sort      ; 139216    ; 287232    ; 0.001000
+Merge Sort     ; 493382    ; 284333    ; 0.002000
+
+
+INSIEME CASUALE
+Selection Sort ; 199990000 ; 19999     ; 0.319000
+Insertion Sort ; 98251613  ; 98251617  ; 0.231000
+Quick Sort     ; 2187792   ; 50482     ; 0.004000
+Heap Sort      ; 260412    ; 287232    ; 0.002000
+Merge Sort     ; 511326    ; 298891    ; 0.002000
+
+
+
+NUMERO ELEMENTI: 50000
+INSIEME ORDINATO
+Selection Sort ; 1249975000; 49999     ; 2.270000
+Insertion Sort ; 49999     ; 49999     ; 0.000000
+Quick Sort     ; 1250074998; 49999     ; 2.290000
+Heap Sort      ; 401952    ; 784464    ; 0.002000
+Merge Sort     ; 1455476   ; 848303    ; 0.005000
+
+
+INSIEME QUASI_ORDINATO
+Selection Sort ; 1249975000; 49999     ; 2.052000
+Insertion Sort ; 779869455 ; 779869456 ; 1.839000
+Quick Sort     ; 304528409 ; 114683    ; 0.558000
+Heap Sort      ; 547175    ; 784464    ; 0.003000
+Merge Sort     ; 1422404   ; 804857    ; 0.005000
+
+
+INSIEME INV_ORDINATO
+Selection Sort ; 1249975000; 49999     ; 2.261000
+Insertion Sort ; 1249975000; 1250024999; 2.945000
+Quick Sort     ; 1250074998; 49999     ; 2.291000
+Heap Sort      ; 382512    ; 784464    ; 0.002000
+Merge Sort     ; 1366152   ; 773891    ; 0.005000
+
+
+INSIEME CASUALE
+Selection Sort ; 1249975000; 49999     ; 2.177000
+Insertion Sort ; 614935408 ; 614935413 ; 1.462000
+Quick Sort     ; 12888585  ; 128573    ; 0.028000
+Heap Sort      ; 716888    ; 784464    ; 0.005000
+Merge Sort     ; 1411032   ; 813765    ; 0.006000
+
