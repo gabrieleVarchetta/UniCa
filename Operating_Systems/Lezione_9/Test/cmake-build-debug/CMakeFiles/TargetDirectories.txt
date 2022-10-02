@@ -1,0 +1,3 @@
+/Users/gabriele/Documents/Esercizi_C_SO_LAB/Lezione_9/Test/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/gabriele/Documents/Esercizi_C_SO_LAB/Lezione_9/Test/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/gabriele/Documents/Esercizi_C_SO_LAB/Lezione_9/Test/cmake-build-debug/CMakeFiles/Test.dir

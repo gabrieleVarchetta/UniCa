@@ -1,0 +1,20 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [
+        ""
+      ],
+      "stopAtEntry": true,
+      "cwd": "/Users/gabriele/Documents/Esercizi_C_SO_LAB/Prove_Thread/Prova_2",
+      "environment": [],
+      "program": "/Users/gabriele/Documents/Esercizi_C_SO_LAB/Prove_Thread/Prova_2/build/Debug/outDebug",
+      "internalConsoleOptions": "openOnSessionStart",
+      "MIMode": "gdb",
+      "externalConsole": false
+    }
+  ]
+}

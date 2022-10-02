@@ -1,0 +1,44 @@
+#include <stdio.h>
+#include <pthread.h>
+
+typedef struct {
+    char character; //character to print
+    int count; //number of times to print 
+} charPrintParams;
+
+void* print(void* args);
+
+int main(int argc, char const *argv[]) {
+    pthread_t threadId_1, threadId_2;
+
+    charPrintParams threadArgs_1, threadArgs_2;
+
+    //creation of the first thread, wich print 'x' 30000 times
+    threadArgs_1.character = 'x';
+    threadArgs_1.count = 30000;
+    pthread_create(&threadId_1, NULL, &print, &threadArgs_1);
+
+    //creation of the second thread, wich print 'o' 20000 times
+    threadArgs_2.character = 'o';
+    threadArgs_2.count = 20000;
+    pthread_create(&threadId_2, NULL, &print, &threadArgs_2);
+
+    //wait for the threads to finish their executions
+    pthread_join(threadId_1, NULL);
+    pthread_join(threadId_2, NULL);
+
+    return 0;
+}
+
+void* print(void* args) {
+    charPrintParams* params;
+    int i;
+
+    //casting to the correct type
+    params = (charPrintParams*) args;
+    
+    for (i = 0; i < params->count; i++)
+        fputc(params->character, stderr);
+    
+    return NULL;
+}

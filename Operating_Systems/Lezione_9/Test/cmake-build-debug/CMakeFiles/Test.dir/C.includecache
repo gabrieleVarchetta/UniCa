@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/gabriele/Documents/Esercizi_C_SO_LAB/Lezione_9/Test/test.c
+pthread.h
+-
+stdio.h
+-
+
+/Users/gabriele/Documents/Esercizi_C_SO_LAB/Lezione_9/Test/test1.c
+pthread.h
+-
+stdio.h
+-
+
