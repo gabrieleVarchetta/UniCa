@@ -1,0 +1,2 @@
+Questo e' il contenuto
+di un file di testo.
